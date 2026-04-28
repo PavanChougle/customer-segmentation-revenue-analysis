@@ -1,0 +1,1216 @@
+CustomerID,Gender,Age,Geography,Tenure,Contract,InternetService,PaymentMethod,MonthlyCharges,TotalCharges,TechSupport,StreamingTV,OnlineSecurity,Churn
+CUST00732,Female,45,New York,66,Month-to-month,Fiber optic,Bank transfer,96.89,6893.51,no,No,No,Yes
+CUST00781,Female,27,New York,44,Month-to-month,DSL,electronic check,84.79,3531.29,no,Yes,No,No
+CUST00043, Male,31,Florida,37,Month-to-month,Fiber optic,Credit card,58.73,1996.38,Yes,Yes,No,No
+CUST00154,Male,31,California,39,One year,Fiber optic,Mailed check,86.44,3293.87,Yes,Yes,No,no
+CUST00490,Female,18,Texas,29,One year,Fiber optic,Bank transfer,66.12,1676.97,Y,No,no,Yes
+CUST00960,Female,18,California,48,Month-to-month,fiber optic,Mailed check,100.33,4683.09,Y,yes,Yes,1
+CUST00269,M,59,Florida,26,One year,No,Mailed check,65.42,1579.45,Y,no,No,No
+CUST00584,Male,69,Florida,29,One year,Fiber optic,Mailed check,102.51,2948.94,Y,No,No,no
+CUST00122,Male,57,New York,32,Month-to-month,Fiber optic,Bank transfer,53.63,1736.39,No,No,NO,yes
+CUST00112,M,23,California,57,month-to-month,No,electronic check,41.68,2068.73,No,Yes,Yes,Yes
+CUST00920,Male,49,california,65,One year,Fiber optic,Bank transfer,70.96,5033.86,Yes,No,no,0
+CUST00127,Male,47,Florida,51,Month-to-month,DSL,,102.01,5436.43,Yes,N,Y,FALSE
+CUST00725,Female,59,New York,2,One year,DSL,Electronic check,88.45,185.27,YES,No,No,No
+CUST00474,female ,46,New York,67,Two year,fiber optic,Mailed check,107.3,6168.89,N,Yes,yes,0
+CUST00146,Female,40,California,47,Month-to-month,Fiber optic,Electronic check,38.68,2055.48,No,Yes,Yes,No
+CUST00995,Female,46, Florida,65,Two year,DSL,Bank transfer,44.56,2587.66,Yes,Yes,No,no
+CUST01089,Male,24,,63,Month-to-month,DSL,Mailed check,61.66,4016.94,Yes,No,No,1
+CUST00173,Female,58,TEXAS,6,One year,No,Electronic check,42.17,218.91,No,Y,No,Y
+CUST00356,female ,45,TEXAS,36,month-to-month,DSL,Mailed check,22.3,754.71,No,No,no,No
+CUST00219,Female,18,Texas,5,Month-to-month,Fiber optic,Mailed check,47.39,267.85,No,Yes,no,No
+CUST01092, Male,55,California,1,Two year,DSL,,62.26,70.27,yes,Yes,No,0
+CUST00583,Male,50,Texas,16,,Fiber optic,Electronic check,24.13,395.53,Yes,Yes,Yes,no
+CUST00293,Male,46,California,9,Two year,DSL,Credit card,22.33,208.24,Yes,No,No,No
+CUST00802,Male,32,TEXAS,53,One year,DSL,Credit card,116.85,6241.26,No,No,Yes,No
+CUST00296,Male,30,california,10,Month-to-month,DSL,Mailed check,100.27,1112.38,yes,Yes,No,
+CUST01009,Male,18,Texas,13,Two year,DSL,Electronic check,-50.5,-704.88,Yes,No,Yes,yes
+CUST00587,Male,45,California,31,Month-to-month,DSL,Electronic check,31.45,1046.88,no,yes,Yes,Yes
+CUST00780,Female,51,california,52,One year,DSL,Bank transfer,32.18,1650.94,No,No,no,no
+CUST00080,Female,61,Texas,25,month-to-month,DSL,Bank transfer,56.43,1312.06,N,no,No,Yes
+CUST00232,Female,50,California,7,Month-to-month,DSL,Electronic check,60.97,372.15,Yes,Yes,No,
+CUST00975,Female,49,New York,34,Month-to-month,Fiber optic,,98.06,3682.15,no,no,Yes,no
+CUST00265,Female,37,Texas,55,month-to-month,Fiber optic,Electronic check,0.0,0.0,Y,No,Yes,Y
+CUST00209,Female,28,Florida,0,Month-to-month,No,,82.55,0.0,no,yes,Y,no
+CUST00608,F,45,Texas,38,month-to-month,Fiber optic,electronic check,50.09,1625.99,No,Yes,No,N
+CUST01111,F,38,,42,One year,Fiber optic,Mailed check,55.89,2503.43,No,Yes,no,yes
+CUST00952,Male,25, Florida,9,Month-to-month,No,Mailed check,87.1,841.08,Y,No,No,no
+CUST01179,Male,56,California,16, Two year,Fiber optic,Electronic check,20.0,350.62,Yes,No,No,no
+CUST00435,male,28,California,39,Month-to-month,Fiber optic,Credit card,41.1,1499.86,Y,Y,Yes,no
+CUST01200,Female,47,Florida,1,Month-to-month,DSL,Electronic check,24.74,24.31, No,No,No,N
+CUST00348,Female,43,California,31,One year,No,Electronic check,30.08,980.21,YES,N,no,No
+CUST00044,Male,79,Texas,40,Month-to-month,fiber optic,Bank transfer,52.8,1815.54,Y,Y,Yes,No
+CUST00837,Male,26,Texas,9,,Fiber optic,Mailed check,28.93,250.59,Yes,Yes,Yes,Yes
+CUST01058,Male,43,Texas,4,One year,Fiber optic,Electronic check,21.74,95.62,No,Yes,No,no
+CUST00340,Male,34,Florida,51,Month-to-month,No,electronic check,111.2,5801.5,Yes,N,yes,No
+CUST00637,Male,43, Florida,19,Month-to-month,DSL,Bank transfer,21.5,444.13,Yes,No,Yes,No
+CUST00670,Male,62,New York,66,Two year,DSL,Bank transfer,109.49,7322.95,No,No,no,no
+CUST00208,Male,18,New York,61,One year,dsl,,113.91,7146.62,No,Yes,no,No
+CUST00475,Female,28,california,33,Month-to-month,No,Electronic check,67.04,2141.98,YES,No,No,Y
+CUST00075,male,33,Texas,14,Month-to-month,fiber optic,Mailed check,78.95,1224.93,No,No,Yes,No
+CUST00857,Female,28,California,54,Two year,Fiber optic,Mailed check,108.43,5752.86,No,Yes,No,No
+CUST00528,,32,,69,One year,DSL,Electronic check,43.92,3121.77,Yes,No,no,N
+CUST00865,Male,30, Florida,71,Month-to-month,DSL,Bank transfer,99.34,6497.08,Yes,Yes,no,Yes
+CUST00538,Male,52,New York,54,Month-to-month,No,electronic check,86.82,5141.63,No,Yes,No,No
+CUST00106,male,68, Florida,61,One year,Fiber optic,Mailed check,65.28,3752.13,No,No,No,TRUE
+CUST00778, Male,54,California,58,Two year,DSL,Bank transfer,87.07,5128.72,yes,Yes,No,No
+CUST01193,Female,50,California,47,Month-to-month,DSL,Mailed check,31.13,1649.29,,Yes,No,
+CUST00421,Male,54,Florida,48,Month-to-month,Fiber optic,Bank transfer,97.74,4698.25,Yes,Yes,Yes,no
+CUST00077,Female,43,TEXAS,51,One year,fiber optic,Credit card,108.92,5922.75,N,N,Yes,no
+CUST01044,Female,41,California,13,One year,Fiber optic,Credit card,47.79,662.43,Y,Yes,No,
+CUST00295,male,48,Texas,48,One year,Fiber optic,electronic check,97.27,5271.09,No,Yes,yes,No
+CUST00169,Female,27,New York,5,One year,fiber optic,electronic check,72.56,408.87,No,Yes,No,
+CUST00049,Male,49,TEXAS,1,Month-to-month,Fiber optic,,69.61,77.47,No,No,Yes,Yes
+CUST00901,Female,47, Florida,6,Two year,No,Mailed check,67.46,360.09,N,no,No,Yes
+CUST00531,female ,41,Texas,64, Two year,DSL,Electronic check,61.33,4257.93,No,Yes,No,no
+CUST00590,Female,59,Texas,27,One year,Fiber optic,Electronic check,45.15,1135.27,No,No,No,No
+CUST00569,female ,61,california,68,Month-to-month,Fiber optic,Electronic check,52.69,3056.39,Yes,Yes,No,Yes
+CUST00728,F,38,California,70,Month-to-month,Fiber optic,Bank transfer,52.57,3335.0,No,Yes,No,No
+CUST01117,Male,30,California,66,Month-to-month,Fiber optic,Credit card,44.68,3361.58,yes,Yes,No,No
+CUST00700,M,50,TEXAS,16,Month-to-month,Fiber optic,Mailed check,87.97,1395.06,yes,yes,No,yes
+CUST00309,Female,30,California,22,Month-to-month,DSL,Credit card,104.24,2023.66,No,Yes,yes,0
+CUST00609, Male,36,Texas,48,Two year,DSL,Electronic check,100.53,4874.86,Yes,Yes,No,1
+CUST00069,male,46,New York,28,Month-to-month,Fiber optic,Mailed check,83.01,2270.0,no,No,No,Yes
+CUST00749,Female,33,California,44,ONE YEAR,Fiber optic,electronic check,92.96,3620.84,N,Yes,No,Yes
+CUST00023,Female,-10,TEXAS,40,Month-to-month,Fiber optic,Bank transfer,19.54,688.04,Yes,No,no,no
+CUST00108,Male,33,Texas,48,Month-to-month,Fiber optic,Electronic check,33.02,1764.7,Yes,Yes,no,No
+CUST00994,M,36,Texas,21,Month-to-month,DSL,Electronic check,54.41,1265.47,No,no,yes,no
+CUST00057,Male,28,california,17,Month-to-month,DSL,Credit card,31.8,502.12,,Yes,Yes,No
+CUST00436,Male,-10,New York,47, Two year,Fiber optic,Mailed check,86.22,3774.81,no,,No,no
+CUST00914,male,54,Texas,24,ONE YEAR,DSL,Electronic check,32.26,881.76,YES,no,No,no
+CUST00325,Female,51,Florida,57,Month-to-month,DSL,Bank transfer,24.9,1624.17,YES,Yes,no,no
+CUST00424,F,25,Texas,22,Two year,No,Electronic check,23.77,585.25,No,yes,No,No
+CUST01008, Male,45,New York,47,Two year,DSL,Credit card,104.55,4952.3,Yes,Yes,Yes,N
+CUST00655,,81,TEXAS,40,One year,No,Electronic check,110.14,3748.3,No,yes,Yes,yes
+CUST01133,F,20,New York,26,month-to-month,No,Electronic check,77.54,1718.28,Yes,Yes,No,Yes
+CUST00380,Female,36,TEXAS,52,Two year,fiber optic,Credit card,96.19,4506.23,Yes,No,No,Yes
+CUST00100,Female,55,California,45,One year,DSL,Electronic check,86.61,3313.5,Y,,Yes,Y
+CUST00331,Male,23,Texas,15,One year,Fiber optic,Electronic check,117.17,2001.43,No,N,Y,N
+CUST00894,Female,39,California,28,Two year,No,Electronic check,53.26,1464.81,Yes,No,Yes,Yes
+CUST00432,male,29,california,1,Two year,Fiber optic,Mailed check,76.57,79.48,No,No,yes,0
+CUST00593,Male,47,california,34,month-to-month,FIBER OPTIC,Credit card,78.32,2417.3,No,Yes,Yes,Yes
+CUST00051,male,33,Texas,8,Month-to-month,DSL,,117.86,986.85,Yes,No,yes,Yes
+CUST00363,Female,50,california,30,Two year,No,electronic check,114.15,3876.91,No,No,Y,Yes
+CUST00285,Female,36,California,32,month-to-month,Fiber optic,Mailed check,46.84,1661.07,No,No,no,FALSE
+CUST00197,F,18,California,13,Month-to-month,Fiber optic,Credit card,91.85,1222.41,No,No,No,No
+CUST00661,Male,29,Texas,33,Month-to-month,DSL,Electronic check,109.16,3821.65,Y,Yes,Yes,Yes
+CUST00510,Male,46, Florida,48,Month-to-month,fiber optic,Mailed check,41.71,2066.5,no,Yes,yes,0
+CUST00243,Male,18,New York,25,One year,DSL,Credit card,94.66,2712.41,Yes,no,No,N
+CUST00463,F,59,New York,18,ONE YEAR,No,Bank transfer,26.16,431.4,No,No,No,TRUE
+CUST00489,Male,22,california,64,,,Credit card,75.96,4500.14,No,Yes,No,No
+CUST00054,Female,78,New York,49,Month-to-month,Fiber optic,Electronic check,108.42,5247.0,no,No,Yes,
+CUST01154,Female,20,California,4,Two year,Fiber optic,Electronic check,96.32,409.49, No,No,No,no
+CUST00761,Male,47,California,21,Month-to-month,DSL,Mailed check,87.33,1838.46,no,yes,yes,Yes
+CUST00308,Male,39,Florida,57,Two year,No,Bank transfer,38.78,2401.03,yes,Yes,,No
+CUST00055,Male,49,Texas,57,One year,Fiber optic,Mailed check,23.63,1244.53,No,Yes,No,no
+CUST00085,male,26,New York,65,Two year,fiber optic,Bank transfer,21.16,1562.65,No,yes,No,No
+CUST00714,Male,53,California,38,One year,No,Credit card,53.22,1893.87,Yes,N,No,No
+CUST00305,Female,25,California,41,One year,Fiber optic,electronic check,111.78,5083.53,No,No,No,No
+CUST00729,Female,42,New York,55,Two year,Fiber optic,Bank transfer,80.8,4259.72,Y,Y,Yes,TRUE
+CUST01164,Male,42,Texas,38,Month-to-month,Fiber optic,Electronic check,64.32,2696.75,Yes,Yes,Yes,N
+CUST00705,Female,56,New York,51,Two year,No,Credit card,23.85,1265.53,Yes,Yes,No,N
+CUST00576,Female,35,california,23,Month-to-month,DSL,Bank transfer,48.59,1166.49,No,No,Y,yes
+CUST01012, Male,59,california,57,Month-to-month,No,Bank transfer,116.85,6686.9,no,yes,No,Y
+CUST00925,Male,59,Florida,19,Two year,Fiber optic,,55.87,1047.13,Yes,No,No,0
+CUST01026,Male,35,New York,68,Month-to-month,DSL,Bank transfer,33.84,2294.4,No,Yes,yes,No
+CUST00534,Female,61,california,20,Month-to-month,Fiber optic,Electronic check,33.8,649.75,,No,Yes,1
+CUST00554,male,67,California,16,ONE YEAR,DSL,Bank transfer,68.35,1208.99,No,Yes,No,no
+CUST00644,Male,22,Florida,11,One year,DSL,Bank transfer,97.87,1013.71,yes,yes,Yes,No
+CUST00297,Female,20, Florida,65,Two year,Fiber optic,electronic check,111.5,8282.89,no,Yes,,0
+CUST00628,Male,34,Texas,38,,Fiber optic,Electronic check,62.01,2447.89,Yes,no,yes,no
+CUST00412,Female,24, Florida,41,One year,fiber optic,Electronic check,101.44,4104.72,No,Yes,No,
+CUST00407,Male,26,New York,3,Two year,Fiber optic,Credit card,48.72,166.24,yes,Yes,No,TRUE
+CUST00179,Male,47,California,8,Two year,Fiber optic,Mailed check,79.81,571.62,N,No,Yes,no
+CUST00724,M,41,New York,34,One year,DSL,Mailed check,39.96,1557.59,Yes,Yes,Yes,yes
+CUST00562,Female,43,California,68,One year,Fiber optic,Bank transfer,67.69,3952.11,No,Yes,No,No
+CUST00408,female ,38,TEXAS,40,Month-to-month,Fiber optic,Electronic check,93.42,3756.93,No,No,yes,N
+CUST00902,Male,51,Texas,41,ONE YEAR,Fiber optic,Bank transfer,61.07,2533.47,Yes,Yes,no,No
+CUST01152,M,39,California,48,Month-to-month,DSL,Electronic check,44.7,2194.36,No,yes,no,No
+CUST00369,Male,61,New York,11,One year,DSL,Bank transfer,80.05,748.57,No,Yes,No,Yes
+CUST00809,Female,57,New York,10,Month-to-month,DSL,Electronic check,76.46,872.23,No,Yes,No,N
+CUST00687,Male,30,New York,58,One year,Fiber optic,Electronic check,108.31,5414.8,no,Yes,Yes,no
+CUST00592,Male,23,Texas,59,Month-to-month,DSL,Mailed check,116.52,6092.32,No,Yes,Y,No
+CUST00911,F,54,California,0,Two year,No,Credit card,31.51,0.0,N,Yes,Y,No
+CUST00748,male,29,California,16,Month-to-month,DSL,Mailed check,110.48,1747.24,Yes,Yes,Yes,Yes
+CUST00342,Female,49,Texas,52,Month-to-month,Fiber optic,Bank transfer,107.43,5936.26,yes,Yes,Yes,N
+CUST00246,female ,53,california,60, Two year,DSL,Credit card,64.42,4232.9,No,no,No,No
+CUST00359,Female,48,California,22,One year,No,Bank transfer,92.59,1977.34,N,yes,Yes,Yes
+CUST01116,Female,49,Texas,10,Two year,Fiber optic,Credit card,78.16,809.23,N,yes,No,0
+CUST00801,Female,47,New York,63,One year,Fiber optic,Credit card,98.78,6111.7,No,Yes,No,Yes
+CUST00448,Female,53,Texas,66,month-to-month,FIBER OPTIC,Mailed check,106.08,6833.55,N,Yes,No,yes
+CUST00274,Female,31,california,24,Month-to-month,DSL,CREDIT CARD,37.94,794.53,Yes,Yes,No,No
+CUST00707,Male,54,New York,21,,DSL,Electronic check,71.31,1313.87,no,no,yes,Yes
+CUST01167,female ,72,Texas,47,One year,No,Mailed check,84.91,4019.46,No,No,No,FALSE
+CUST00191, Male,57,Texas,71,Month-to-month,Fiber optic,Mailed check,74.21,6052.01,No,no,No,No
+CUST00167,Male,28,Texas,47,Month-to-month,DSL,,81.65,3582.6,Yes,No,no,1
+CUST00195,male,50,california,71,Month-to-month,DSL,Electronic check,95.84,6389.64,No,Y,No,Y
+CUST00264,male,47,New York,17,Month-to-month,Fiber optic,Bank transfer,39.75,660.26,yes,Yes,No,Yes
+CUST00229,Female,52,New York,28,One year,DSL,electronic check,62.93,1669.63,Yes,Yes,Yes,No
+CUST00731,Female,68,California,33,month-to-month,DSL,electronic check,110.49,3783.35,No,No,Yes,N
+CUST00930,Male,38,california,2,Month-to-month,Fiber optic,Mailed check,91.99,208.28,No,Yes,No,FALSE
+CUST00577,Male,28,Texas,13,Month-to-month,Fiber optic,Mailed check,95.65,1240.03,Yes,No,Yes,Yes
+CUST00877,Female,54,California,30, Two year,No,Bank transfer,76.34,2363.31,No,Yes,No,Yes
+CUST00622,Male,47,Florida,50,Two year,DSL,Mailed check,107.93,4670.2,Y,No,yes,No
+CUST00708, Male,35,New York,54,Month-to-month,Fiber optic,Mailed check,94.64,4877.46,No,No,Yes,no
+CUST00738,F,47,California,40,One year,No,Bank transfer,21.24,753.11,no,No,No,No
+CUST00710,female ,49,California,59,Month-to-month,Fiber optic,Bank transfer,56.79,3521.63,yes,No,Yes,No
+CUST01016,F,59,california,15,One year,Fiber optic,Credit card,87.79,1136.45,Y,Yes,no,FALSE
+CUST00866,Male,39,California,7,Two year,Fiber optic,Mailed check,51.91,371.21,Y,No,N,Yes
+CUST00430,Male,41,Texas,67,Two year,DSL,Bank transfer,109.04,7888.26,No,,No,FALSE
+CUST00758,Female,60,Texas,48,One year,No,electronic check,41.18,2007.04,no,No,no,no
+CUST01004,male,20,New York,30,One year,fiber optic,Bank transfer,71.29,2025.63,Yes,Yes,No,0
+CUST01050,,39,Texas,19,One year,Fiber optic,Credit card,108.9,2016.95,Yes,No,no,no
+CUST00134,Male,37,New York,11,Two year,Fiber optic,Bank transfer,112.65,1138.82,Yes,Yes,No,Yes
+CUST00611,Male,39,California,71,Month-to-month,No,Electronic check,37.19,3016.2,No,No,No,no
+CUST00872,Female,58,TEXAS,63,Month-to-month,No,Mailed check,33.6,1973.59,No,No,yes,no
+CUST00330,Male,61,Florida,25,Two year,,Bank transfer,115.69,2613.35,Yes,No,No,No
+CUST00276,Female,33,Florida,56,Month-to-month,DSL,Mailed check,76.06,4775.5,No,yes,No,FALSE
+CUST00157,Male,39,Florida,33,,DSL,Electronic check,77.97,2706.83,Yes,Yes,Yes,Y
+CUST00139,female ,51,TEXAS,20,Month-to-month,Fiber optic,Mailed check,57.3,1285.38,Y,No,Yes,no
+CUST00898,Male,18,Florida,71,ONE YEAR,No,Electronic check,82.97,5528.78,Yes,No,yes,yes
+CUST00717,Female,-10,Texas,56,Month-to-month,Fiber optic,Electronic check,60.45,3436.08,No,Yes,No,No
+CUST00318,Male,23,California,56,One year,No,Mailed check,22.85,1096.74,Yes,No,,No
+CUST01165,male,50,Texas,32,Month-to-month,Fiber optic,Electronic check,68.09,2011.1,no,Yes,No,No
+CUST01144,Male,30,New York,32,Month-to-month,Fiber optic,Electronic check,77.03,2465.15,yes,Yes,No,No
+CUST01059,Male,39,california,68,One year,No,Bank transfer,57.46,3430.47,No,No,yes,No
+CUST00192,Male,42,California,53,Month-to-month,DSL,electronic check,63.44,3502.47,yes,yes,Yes,FALSE
+CUST00478,Female,33,california,54,One year,fiber optic,,72.27,4069.71,yes,No,No,
+CUST01188,Male,30,California,11,Month-to-month,DSL,Electronic check,108.64,1292.86,Yes,no,No,0
+CUST00183,Male,44,New York,36,month-to-month,Fiber optic,Mailed check,54.94,1715.96,yes,Y,Yes,0
+CUST00422,Female,30,california,61,Month-to-month,DSL,Electronic check,86.19,5778.99,No,No,No,No
+CUST01148,Male,21,TEXAS,11,Month-to-month,fiber optic,,79.6,755.37,YES,yes,Yes,no
+CUST00258,Male,40,Florida,20,Month-to-month,DSL,Electronic check,78.31,1629.27,Y,No,no,Yes
+CUST00804,M,43, Florida,38,month-to-month,Fiber optic,Bank transfer,92.49,3749.16,No,Yes,Yes,Yes
+CUST00162,Female,48,Texas,17,Month-to-month,DSL,Bank transfer,22.16,417.59,No,No,yes,N
+CUST00417,male,41,Texas,34,,DSL,Electronic check,33.01,1273.87,No,no,Yes,FALSE
+CUST01169,Female,57,California,37,One year,No,Credit card,39.58,1381.11,Yes,Yes,Yes,No
+CUST00155,Female,40,New York,65,One year,Fiber optic,Mailed check,41.98,2701.71,No,Y,No,no
+CUST00704,Female,43,New York,65,One year,fiber optic,Electronic check,38.72,2581.23,N,Yes,Yes,No
+CUST00419,Male,36,California,41,Month-to-month,FIBER OPTIC,Electronic check,77.7,3293.36,No,Yes,No,Yes
+CUST00838,Female,53,TEXAS,35,Month-to-month,Fiber optic,CREDIT CARD,112.16,3508.19,YES,Y,N,FALSE
+CUST00198,male,27,New York,13,One year,No,Bank transfer,59.94,789.08,,Yes,no,no
+CUST00951,Female,48,california,12,Two year,DSL,Electronic check,57.56,726.05,No,No,No,0
+CUST00458,male,29,New York,15,One year,No,Electronic check,20.51,349.5,No,no,Yes,Yes
+CUST00843,Male,48,TEXAS,4,One year,Fiber optic,Mailed check,45.43,158.77,no,yes,Yes,No
+CUST00706,Female,51,California,42,Two year,DSL,CREDIT CARD,29.78,1247.66,No,No,No,No
+CUST00827,Female,18,Texas,50,Two year,No,Bank transfer,60.8,2979.78,Yes,no,No,no
+CUST00207,Male,22,California,66,Two year,Fiber optic,Electronic check,54.33,3247.81,yes,No,NO,No
+CUST00599,Female,44,New York,9,One year,Fiber optic,Electronic check,107.75,965.15,no,Yes,No,Y
+CUST00931,Female,23,california,45,Month-to-month,Fiber optic,Credit card,74.93,2975.67,yes,No,Yes,No
+CUST00612,M,55, Florida,53,Month-to-month,dsl,Mailed check,113.84,6130.1,No,,Yes,Yes
+CUST00288,Female,66,New York,17,One year,DSL,Mailed check,113.22,1780.11,no,Yes,Yes,no
+CUST00987,Male,22,Florida,67,Two year,dsl,Bank transfer,42.27,2583.28,Yes,no,No,No
+CUST00973,Male,29,Texas,59,Two year,DSL,Mailed check,64.66,3459.93,No,No,Y,Y
+CUST01072,F,42,Florida,25,Month-to-month,fiber optic,CREDIT CARD,75.87,2022.54,yes,no,No,No
+CUST00532,M,54,Texas,2,One year,No,Credit card,32.48,61.98,No,Y,No,no
+CUST00572,Female,56,New York,28,Month-to-month,DSL,Credit card,39.65,1183.5,Yes,No,yes,no
+CUST00095,Female,34,New York,54,Two year,DSL,Mailed check,56.82,2748.72,YES,Yes,No,No
+CUST01031,male,31,TEXAS,17,month-to-month,No,CREDIT CARD,113.52,1678.39,Yes,yes,Yes,yes
+CUST00834,Female,25,California,59,One year,DSL,Electronic check,74.03,3772.87,No,no,Yes,Yes
+CUST00177, Male,41,Texas,14,One year,DSL,Mailed check,112.81,1781.35,no,,no,No
+CUST00031,Male,30,New York,57,month-to-month,Fiber optic,Bank transfer,33.49,1993.71,No,No,Yes,no
+CUST00230,Female,52,California,52, Two year,Fiber optic,Electronic check,109.05,6518.56,No,No,Yes,no
+CUST00924,Male,18,California,36,Month-to-month,No,Credit card,30.75,1119.15,Yes,Yes,No,Yes
+CUST00659,Male,69,TEXAS,57,Two year,Fiber optic,Bank transfer,68.89,3610.4,Yes,no,Yes,yes
+CUST00753,Male,53,Texas,69,One year,DSL,Bank transfer,54.97,3803.03,No,Yes,No,No
+CUST01122,Female,45,Texas,52,Month-to-month,Fiber optic,Bank transfer,99.74,4833.54, No,N,N,0
+CUST00329,male,37,Texas,6,Month-to-month,dsl,Mailed check,32.04,219.37,Yes,Yes,No,Y
+CUST00217,Female,58,New York,1,One year,DSL,Electronic check,66.54,68.21,No,Yes,NO,Yes
+CUST00905,Female,18,california,57,Month-to-month,Fiber optic,Credit card,23.37,1497.33,No,yes,No,yes
+CUST00087,F,51,Florida,18,Month-to-month,No,electronic check,93.55,1564.37,No,No,No,Yes
+CUST00616,Female,47,Texas,17,Month-to-month,Fiber optic,Bank transfer,113.06,1916.76,No,,N,Y
+CUST01029,Male,34,Florida,48,Two year,Fiber optic,Electronic check,65.47,2747.34,Yes,N,Yes,Y
+CUST00361,Female,59,Texas,60,Two year,fiber optic,Bank transfer,67.24,3583.3,Y,Y,Yes,no
+CUST00863,Female,47,Texas,45,One year,Fiber optic,Electronic check,79.56,3456.35,no,no,Yes,0
+CUST01042,male,45,New York,48,Two year,Fiber optic,Bank transfer,114.29,5734.3,No,Yes,No,N
+CUST00322,Male,67,Texas,53,Month-to-month,No,electronic check,85.91,5190.99,yes,Yes,No,Yes
+CUST00701,Male,53,New York,35,Month-to-month,DSL,CREDIT CARD,23.73,868.3,N,No,No,1
+CUST00786,Female,58,Texas,26,Month-to-month,DSL,Electronic check,26.19,737.23,No,Yes,Yes,Yes
+CUST00582,Male,44,New York,11,One year,DSL,Mailed check,94.46,978.65,No,Yes,No,yes
+CUST00242,Female,32,Florida,0,One year,Fiber optic,Electronic check,19.75,0.0,Yes,No,no,N
+CUST00457,Female,35,Texas,27,Month-to-month,Fiber optic,Mailed check,36.94,1103.14,No,No,no,yes
+CUST00353,Female,25,New York,10,Month-to-month,Fiber optic,Mailed check,33.09,312.43,Yes,No,No,FALSE
+CUST00360,Female,35,Texas,15,One year,,Credit card,50.5,711.06,No,Y,Yes,Yes
+CUST00972,Male,23,california,0,Two year,Fiber optic,CREDIT CARD,55.39,0.0,YES,yes,NO,Yes
+CUST00529,Female,49,New York,56,Month-to-month,Fiber optic,electronic check,39.54,1962.52,Yes,No,No,No
+CUST00011,Male,31,California,13,Month-to-month,fiber optic,,40.57,602.27,Yes,Yes,NO,Yes
+CUST00578,Female,29,New York,68,Month-to-month,Fiber optic,Credit card,61.63,4559.13,No,Yes,No,Yes
+CUST00699,Male,59,New York,5,One year,No,Mailed check,70.48,379.49,No,,,No
+CUST00239,female ,28,California,19,One year,Fiber optic,Electronic check,91.76,1564.43,Y,Yes,No,N
+CUST00058,Male,42,Texas,54,Two year,DSL,Mailed check,22.38,1239.19,no,N,No,no
+CUST00832,Female,45,New York,1,Two year,Fiber optic,Electronic check,63.78,67.49,no,no,,No
+CUST00062,Female,31,california,17,Month-to-month,Fiber optic,Mailed check,47.67,931.35,N,No,Yes,No
+CUST00716,male,24,California,40,ONE YEAR,fiber optic,Credit card,81.43,3563.6,no,Yes,No,1
+CUST00703,male,23,Florida,51,One year,Fiber optic,Mailed check,77.05,3554.07,YES,No,Yes,0
+CUST00713, Male,46,New York,68,Two year,Fiber optic,electronic check,29.3,2108.16,No,No,yes,N
+CUST00350,Female,29,Texas,69,Month-to-month,DSL,Electronic check,91.64,5507.42,No,No,No,
+CUST00671,Female,42,New York,47,Month-to-month,DSL,Bank transfer,45.29,2222.91,No,yes,No,Yes
+CUST00502, Male,54,TEXAS,42,Two year,DSL,Mailed check,107.8,4055.44,Yes,Yes,No,No
+CUST01066,Female,52,Texas,29,Two year,Fiber optic,Electronic check,93.06,2560.82,No,N,yes,Yes
+CUST00502,Male,76,TEXAS,62,One year,DSL,Bank transfer,107.35,6008.54,No,Yes,No,yes
+CUST00867,male,28,California,70,ONE YEAR,Fiber optic,Mailed check,50.91,3643.68, No,No,NO,Yes
+CUST01170, Male,31,california,1,Month-to-month,No,Electronic check,52.92,50.37,No,no,No,yes
+CUST00665,F,72,Florida,49,month-to-month,No,Mailed check,70.63,3759.71,No,Yes,N,Y
+CUST01137,F,49,California,61,One year,DSL,Bank transfer,88.45,4999.73,No,yes,yes,No
+CUST00763,Male,59,New York,17,Two year,fiber optic,Bank transfer,108.68,2049.33,Yes,No,No,No
+CUST01125,Female,44,California,7,Two year,fiber optic,Electronic check,22.7,155.56,Yes,Yes,Y,no
+CUST00289,Male,18,California,71,Month-to-month,No,Electronic check,63.28,3957.5,no,Yes,Y,No
+CUST00444,male,55,california,67,month-to-month,DSL,Electronic check,68.78,4480.52,N,No,No,Yes
+CUST00461,Female,22, Florida,16,Two year,FIBER OPTIC,Electronic check,72.69,1179.14,yes,No,no,TRUE
+CUST00378,Male,18,TEXAS,37,Two year,DSL,Bank transfer,107.35,4449.99,no,Yes,Yes,No
+CUST00374,M,78,California,55,Month-to-month,,Electronic check,28.9,1572.8,,Yes,Yes,yes
+CUST00320,male,71,California,25,Month-to-month,No,Electronic check,118.49,2809.63,No,yes,No,yes
+CUST00082,Male,74,California,48,Two year,DSL,Mailed check,97.81,4147.77,no,No,No,No
+CUST00128,Female,40,Texas,67,Month-to-month,Fiber optic,Electronic check,64.79,4260.32,YES,yes,Yes,yes
+CUST00841,Female,38,california,48,One year,Fiber optic,CREDIT CARD,86.06,4493.39,No,No,No,N
+CUST00625,F,28,New York,13,One year,,Bank transfer,70.54,1005.64,Yes,No,no,no
+CUST00913,F,49, Florida,51,Month-to-month,DSL,Mailed check,70.4,3175.89,No,no,No,FALSE
+CUST00210, Male,44,California,54,One year,DSL,Mailed check,77.97,4316.58,Yes,No,No,0
+CUST00259,Female,33,Texas,69,One year,Fiber optic,Mailed check,21.69,1390.64,yes,Yes,No,N
+CUST00544,Female,20, Florida,72,One year,dsl,Mailed check,32.0,2259.41,Yes,No,No,no
+CUST00556,male,59,Florida,46,Month-to-month,Fiber optic,Electronic check,96.25,3878.48,No,Yes,no,No
+CUST00891,Male,64,Texas,30,Month-to-month,Fiber optic,Electronic check,55.87,1878.94,Yes,no,Yes,No
+CUST00954,Male,18,California,49,Month-to-month,Fiber optic,Electronic check,52.14,2492.87,N,yes,No,No
+CUST00137,Female,38,Texas,12,Month-to-month,Fiber optic,Electronic check,49.5,617.36,yes,Yes,No,Y
+CUST00937, Male,60,New York,23, Two year,Fiber optic,Mailed check,116.05,2446.04,No,No,No,no
+CUST00140,Male,21,TEXAS,27,Month-to-month,Fiber optic,Electronic check,24.47,731.97,No,yes,No,Yes
+CUST00934,Male,42,California,44,Month-to-month,Fiber optic,Credit card,70.93,3480.67,no,Yes,No,No
+CUST00403,F,31, Florida,52,Month-to-month,Fiber optic,Bank transfer,107.28,5998.57,no,No,NO,
+CUST01037,F,52,Texas,5,Month-to-month,DSL,Mailed check,70.17,345.98,No,No,No,No
+CUST00138,female ,60,California,25,One year,DSL,Mailed check,43.67,1002.97,Yes,Yes,No,no
+CUST00375,Male,37,Texas,68,One year,Fiber optic,Electronic check,999.99,66819.39,Y,Yes,No,1
+CUST00852,Male,18,Texas,36,Month-to-month,DSL,Mailed check,102.87,3158.26,Yes,No,No,No
+CUST00223,Male,35,california,62,One year,DSL,Electronic check,57.27,3439.73,Yes,no,yes,No
+CUST00467,female ,31,New York,61,One year,Fiber optic,Electronic check,108.77,6308.79,Yes,No,Yes,Yes
+CUST00273,Female,53,Texas,25,Month-to-month,Fiber optic,Mailed check,69.21,1475.73,Yes,No,,No
+CUST00291,M,63,New York,43,One year,Fiber optic,Bank transfer,87.67,4204.24,No,No,No,FALSE
+CUST00563,Female,31,California,38,One year,fiber optic,Electronic check,21.63,908.48,No,No,Yes,yes
+CUST00585,Female,25,California,22, Two year,DSL,Credit card,112.57,2499.51,Y,Yes,Yes,No
+CUST00379,Female,42,california,67,,Fiber optic,Bank transfer,61.19,4463.82,No,yes,no,yes
+CUST01103,Female,37,TEXAS,66,Month-to-month,Fiber optic,Electronic check,-50.5,-2974.91,No,no,No,No
+CUST00630,Female,150,Texas,24,One year,DSL,Bank transfer,29.21,627.26,No,No,No,No
+CUST00963,Male,18,TEXAS,47,Two year,Fiber optic,electronic check,116.42,5259.21,Y,,No,no
+CUST00764,M,25,Texas,37,Two year,dsl,Credit card,52.69,1818.67,no,Yes,No,No
+CUST00795,Female,44,Florida,52,Month-to-month,DSL,Electronic check,78.68,4085.63,yes,No,No,No
+CUST00588,F,59,california,8,One year,Fiber optic,Electronic check,80.15,608.65,No,Y,Yes,Yes
+CUST00307,male,33,TEXAS,18,Month-to-month,No,Mailed check,50.93,852.61,,Yes,Yes,no
+CUST00477,Female,60,TEXAS,68,Two year,No,Mailed check,24.16,1409.81,No,,No,No
+CUST00603,Female,48,Texas,17,Two year,fiber optic,Electronic check,-50.5,-802.61,Yes,No,No,No
+CUST00851,Female,150,New York,15,Month-to-month,Fiber optic,Mailed check,33.59,466.87,Yes,No,yes,No
+CUST00648,Female,29,California,11,Month-to-month,FIBER OPTIC,Electronic check,34.95,436.07,No,Yes,No,No
+CUST00854,Female,18,New York,51,Two year,No,Electronic check,107.91,6165.82,No,Yes,Yes,Y
+CUST00557,Male,33,California,1,Month-to-month,Fiber optic,Mailed check,112.53,125.41,yes,No,No,no
+CUST00039,Female,56,TEXAS,62,Month-to-month,DSL,Mailed check,112.55,7097.32,Yes,yes,No,1
+CUST00030,Female,47,California,58,Month-to-month,DSL,Mailed check,79.15,5192.07,Yes,No,Yes,N
+CUST00241, Male,56,Florida,8,Two year,DSL,Electronic check,56.58,480.28,No,No,Yes,
+CUST00530,male,38,TEXAS,18,Month-to-month,No,Bank transfer,32.52,670.33,No,Yes,Y,No
+CUST00135,Female,18, Florida,43,One year,No,Bank transfer,96.84,3814.61,No,No,no,no
+CUST00992,F,45,california,40,month-to-month,No,Mailed check,116.5,5219.94,Yes,Yes,Yes,Y
+CUST00429,Female,24,New York,72,One year,Fiber optic,Electronic check,112.37,8424.77,No,yes,yes,Yes
+CUST00004,Female,24,New York,57,Month-to-month,Fiber optic,Electronic check,68.94,3449.48,no,no,Yes,1
+CUST00486,Female,50,New York,50,One year,DSL,Electronic check,63.71,3069.99,Yes,yes,No,No
+CUST00615,Male,25,New York,35,Month-to-month,Fiber optic,Bank transfer,82.67,3213.29,No,Yes,No,yes
+CUST01036,Male,33,Texas,14,Month-to-month,Fiber optic,Bank transfer,36.45,514.98,No,yes,No,yes
+CUST00410,Female,56,TEXAS,49,Month-to-month,No,Credit card,118.73,5380.04,No,No,Yes,Yes
+CUST01163,male,40,California,15,One year,DSL,Bank transfer,97.29,1279.03,No,Yes,yes,No
+CUST00754,Male,60,,37,Two year,Fiber optic,Electronic check,97.14,3349.87,No,Yes,Yes,No
+CUST00481, Male,68,Texas,40,One year,Fiber optic,Mailed check,57.84,2001.46, No,No,Yes,no
+CUST00313,M,57,Texas,23,Month-to-month,fiber optic,Mailed check,69.73,1756.11,yes,No,Yes,Yes
+CUST00523,Male,43,California,27,ONE YEAR,DSL,Mailed check,90.88,2594.08,yes,Yes,No,No
+CUST00392,Male,27,TEXAS,50,One year,Fiber optic,Electronic check,29.46,1462.01,No,No,Yes,
+CUST01054,male,38,TEXAS,51,Month-to-month,Fiber optic,Electronic check,35.54,1744.19,Yes,no,N,No
+CUST00006,Male,51,New York,30,Month-to-month,fiber optic,Electronic check,73.03,2419.3,no,No,No,no
+CUST00099,Male,55,California,6,Month-to-month,No,Credit card,0.0,0.0,No,No,Yes,0
+CUST00651,Female,33,California,16,One year,DSL,Mailed check,69.8,1170.55,Y,No,Yes,No
+CUST00519,M,52,California,55,Month-to-month,DSL,Credit card,35.84,2242.15,Yes,no,Yes,yes
+CUST00493,Male,44,Texas,16,Month-to-month,DSL,Credit card,500.0,9199.78,No,No,Yes,yes
+CUST00822,Female,59,California,0,Month-to-month,No,Electronic check,67.8,,Yes,Y,,
+CUST00326,Female,28,New York,1,Month-to-month,DSL,Electronic check,50.66,51.21,Yes,Yes,No,yes
+CUST00427,Male,18,New York,48,Month-to-month,DSL,Credit card,74.82,3331.91,Yes,No,Yes,FALSE
+CUST01194,Female,42,,70,Month-to-month,Fiber optic,Mailed check,26.81,1913.01,yes,No,No,No
+CUST00226,Female,19,Texas,72,Month-to-month,Fiber optic,Mailed check,39.41,2681.04,No,No,No,yes
+CUST00654,Female,57,New York,61,One year,Fiber optic,Electronic check,94.1,5008.35,yes,Yes,No,yes
+CUST00537,Female,20,California,24,Month-to-month,DSL,electronic check,73.79,1956.69,Yes,Yes,,No
+CUST00745,Female,34,TEXAS,11,Month-to-month,Fiber optic,Bank transfer,30.63,295.81,Yes,yes,NO,N
+CUST00993,male,68,california,17,One year,Fiber optic,Mailed check,42.6,616.19,No,Yes,No,0
+CUST00065,Male,56,Florida,16,One year,No,Mailed check,37.59,519.73,No,No,No,No
+CUST00066,M,51,California,72,Month-to-month,No,Electronic check,73.15,4650.03,N,No,Y,Yes
+CUST01078,Male,57,california,24,Month-to-month,Fiber optic,Electronic check,101.92,2561.1,Yes,No,Yes,Yes
+CUST00210,Female,65,New York,11,Month-to-month,FIBER OPTIC,Mailed check,97.56,987.91,Yes,No,no,No
+CUST00013,M,43,California,5,,dsl,Mailed check,81.98,416.3,no,Yes,No,1
+CUST00518,female ,49,Texas,20,One year,DSL,Credit card,58.76,1237.73,No,Yes,Yes,No
+CUST00660,Male,40,TEXAS,50,Month-to-month,,Mailed check,20.37,1081.74,Yes,No,Yes,
+CUST00298,Male,18,California,57,One year,DSL,Mailed check,89.09,5551.57,N,No,Yes,yes
+CUST00439,Female,59,California,54,Month-to-month,Fiber optic,Electronic check,68.13,3279.89,No,Yes,No,yes
+CUST00770,male,57,California,43,One year,No,Bank transfer,22.96,922.96,No,Yes,No,No
+CUST01077,,42,California,67,Two year,DSL,Electronic check,89.19,5460.75,No,Yes,Yes,No
+CUST00545,male,25,New York,65, Two year,DSL,Electronic check,51.46,3579.51,No,yes,No,No
+CUST00976,Female,56,New York,29,Month-to-month,No,Credit card,42.21,1207.46,Yes,Yes,no,No
+CUST01139,M,73,Texas,41,Month-to-month,Fiber optic,Bank transfer,98.04,3426.02,No,Yes,No,No
+CUST00365, Male,38,California,24,One year,Fiber optic,Bank transfer,44.2,1188.99,No,No,No,No
+CUST00730,M,37,California,9,Month-to-month,DSL,Electronic check,47.49,460.29,No,No,Yes,no
+CUST00624,male,29,New York,4,,DSL,Bank transfer,100.47,399.19,Yes,N,No,0
+CUST01121,Male,57,California,21,ONE YEAR,Fiber optic,Mailed check,107.6,2220.31,No,No,No,No
+CUST00579,Male,39,Texas,17,month-to-month,Fiber optic,Electronic check,100.72,1503.2,Yes,Yes,No,yes
+CUST01082,Female,44,New York,34,One year,DSL,CREDIT CARD,37.17,1213.57,,No,Yes,0
+CUST00272, Male,53,california,31,Month-to-month,DSL,electronic check,57.57,1745.95,No,Y,No,Yes
+CUST00547,F,29,New York,6,month-to-month,DSL,Electronic check,86.45,482.92,No,Yes,No,Yes
+CUST00236,Male,50,New York,20,Month-to-month,Fiber optic,Bank transfer,48.42,1079.05,Yes,No,Yes,1
+CUST00989,Female,33, Florida,51,month-to-month,Fiber optic,Mailed check,41.13,2330.28,Yes,No,Yes,0
+CUST00003,male,38,California,2,ONE YEAR,DSL,Electronic check,49.53,94.2,No,Yes,No,Yes
+CUST00007,Male,23,,42,Two year,DSL,Credit card,40.88,1770.39,No,yes,no,No
+CUST00310,Male,42,California,53,Month-to-month,No,,38.34,2258.9,No,No,No,no
+CUST01032,Male,33,Texas,8,Month-to-month,Fiber optic,Bank transfer,107.0,798.22,No,No,Y,No
+CUST00591,Male,18,california,23,Month-to-month,Fiber optic,Bank transfer,93.36,1987.14,No,Yes,no,No
+CUST01151,Male,44,Florida,68,Two year,DSL,,36.23,2731.27,N,No,N,Yes
+CUST00623,Male,38,California,34,One year,DSL,Bank transfer,19.69,758.04,No,no,,No
+CUST00214,Male,5,Texas,3,One year,DSL,Bank transfer,91.43,282.07,no,no,No,0
+CUST00396,male,33,Texas,17,One year,FIBER OPTIC,Mailed check,24.68,435.89,no,No,No,No
+CUST00027,Female,49,California,26,Two year,Fiber optic,Credit card,43.95,1098.2,Yes,Yes,Yes,no
+CUST01158,,24,california,32,Month-to-month,,Electronic check,0.0,0.0,yes,Yes,No,0
+CUST00388,,46,,37,Two year,Fiber optic,Electronic check,100.94,3426.26,No,No,no,N
+CUST01035,Male,48,Florida,24,Month-to-month,Fiber optic,Credit card,86.45,2382.68,N,Yes,No,1
+CUST00794,Male,53,Texas,68,Month-to-month,Fiber optic,Bank transfer,45.8,3563.64,No,No,No,TRUE
+CUST01024,Male,56,Florida,31,Month-to-month,DSL,Mailed check,95.02,2858.68,No,No,No,Y
+CUST00482,Male,53,California,68,Two year,fiber optic,Mailed check,19.01,1245.8,Yes,No,Yes,yes
+CUST00747,Male,50,California,38,Month-to-month,DSL,Electronic check,26.41,1127.9,No,No,Yes,No
+CUST00548,Female,29,California,62,ONE YEAR,Fiber optic,Credit card,95.15,6444.75,No,No,no,Yes
+CUST00352,Male,74,Texas,3,month-to-month,Fiber optic,Electronic check,24.21,68.93,No,no,NO,No
+CUST01052,Female,51,TEXAS,56,Two year,Fiber optic,Mailed check,90.69,4967.06,N,no,No,No
+CUST00426,Male,41,New York,3,One year,Fiber optic,electronic check,60.65,180.57,No,No,Yes,Y
+CUST00255, Male,44,TEXAS,50,Month-to-month,No,Electronic check,73.19,3774.59,Yes,No,Yes,yes
+CUST00290,Male,46,Texas,29,month-to-month,Fiber optic,electronic check,84.97,2671.2,Yes,Yes,no,no
+CUST00025,male,46,California,14, Two year,DSL,Bank transfer,46.66,679.83,No,No,N,no
+CUST00334,F,43,Texas,59,Month-to-month,DSL,Bank transfer,57.91,3349.62, No,No,Y,no
+CUST00709,M,150,California,66,Month-to-month,DSL,electronic check,-50.5,-3166.33,yes,Yes,yes,Y
+CUST00047,Female,25,TEXAS,16,One year,No,Electronic check,31.04,453.58,Yes,No,NO,No
+CUST00317,Male,24,Texas,17,Month-to-month,,,116.14,1813.03,Yes,yes,No,yes
+CUST00105,Female,40, Florida,53,One year,No,CREDIT CARD,36.63,2134.56,Y,no,yes,Yes
+CUST00966,Female,65, Florida,31,Month-to-month,No,Credit card,70.92,2432.96,no,no,Yes,1
+CUST00052, Male,41,Florida,39,One year,dsl,Bank transfer,102.38,3711.18,No,No,No,No
+CUST00879,Male,53,California,14,Month-to-month,DSL,Electronic check,36.73,576.57,Yes,yes,NO,No
+CUST00212,Male,37,Texas,41,Two year,,Electronic check,39.47,1807.75,Yes,No,N,0
+CUST00119,M,18,Texas,42,,Fiber optic,Bank transfer,46.94,2191.75,Yes,Yes,No,0
+CUST00575,,54,New York,50,Two year,Fiber optic,Credit card,44.46,2350.12,no,N,No,N
+CUST00522,Female,18,California,24,Month-to-month,fiber optic,Electronic check,40.82,855.06,No,no,Yes,No
+CUST00860,female ,33,California,37,Month-to-month,,Electronic check,71.63,2451.61,Yes,Yes,No,
+CUST00071,Male,69,Texas,19,One year,DSL,Credit card,32.69,599.05,Yes,No,Yes,N
+CUST01013,female ,36,California,50,Month-to-month,Fiber optic,Electronic check,83.33,3677.84,Yes,No,,Yes
+CUST00760,F,44,California,32,Two year,Fiber optic,Mailed check,87.37,3149.68,No,No,no,No
+CUST01119,Female,43,Texas,45,One year,Fiber optic,Electronic check,92.85,4381.24,Yes,No,Yes,No
+CUST01195,Male,38,Texas,49,Two year,DSL,Credit card,86.82,4426.86,Yes,yes,no,No
+CUST00909,male,18,Texas,72,,Fiber optic,Electronic check,36.46,2610.82,Yes,No,Y,0
+CUST00799, Male,51,california,18,Two year,Fiber optic,Mailed check,113.91,2277.79,Yes,Y,Yes,yes
+CUST00565,Female,66,California,35,One year,DSL,Electronic check,71.96,2743.64,Yes,no,No,No
+CUST00776,Male,52,California,12,Month-to-month,Fiber optic,,73.87,896.7,Yes,yes,Yes,0
+CUST00515,Male,50,New York,0,Month-to-month,No,Mailed check,29.15,,Yes,Yes,N,yes
+CUST01094,Male,41,Texas,57,Month-to-month,Fiber optic,Bank transfer,108.05,5729.17,yes,Yes,Yes,No
+CUST00324,male,31,New York,28,Month-to-month,fiber optic,Electronic check,31.15,909.22,no,N,no,No
+CUST00525,F,51,Texas,20,Two year,No,Bank transfer,28.9,508.97,No,Yes,,N
+CUST00940,Female,58,Texas,27,Month-to-month,DSL,,19.93,604.2,yes,yes,No,FALSE
+CUST00315,Female,48,California,52,ONE YEAR,DSL,electronic check,112.57,5511.54,yes,yes,No,
+CUST00948,Male,42,TEXAS,67,Month-to-month,fiber optic,Electronic check,85.4,6386.55,no,Yes,Yes,yes
+CUST00980,male,5, Florida,57,One year,DSL,Mailed check,31.78,1551.35,No,Yes,Yes,No
+CUST00541,Female,25,california,55,Month-to-month,Fiber optic,Electronic check,55.29,3164.64,No,yes,NO,No
+CUST00967,Male,45, Florida,3,Two year,Fiber optic,electronic check,101.69,268.4,No,Yes,Yes,no
+CUST01027,male,30,Texas,44,Two year,DSL,electronic check,102.55,5066.8,No,No,No,No
+CUST00454,Male,38,Texas,57,Month-to-month,DSL,Electronic check,50.8,2466.38,Yes,No,No,Yes
+CUST01156,Male,43,California,12,Month-to-month,No,Electronic check,113.86,1208.58,no,Y,Yes,N
+CUST00059,Female,37,TEXAS,28,Month-to-month,DSL,Mailed check,60.3,1889.91,yes,Yes,yes,no
+CUST00736,Female,46,Florida,65,Month-to-month,Fiber optic,Mailed check,84.01,5359.27,Yes,No,No,No
+CUST00091,male,28,New York,55,Month-to-month,Fiber optic,Electronic check,82.64,5050.42,,No,No,no
+CUST00943, Male,61,california,53,Month-to-month,FIBER OPTIC,Mailed check,95.76,4526.81,Yes,Yes,No,Yes
+CUST00420,Female,41,California,38,Month-to-month,DSL,Electronic check,106.15,4299.05,No,No,Yes,1
+CUST00349,F,52,New York,14,One year,Fiber optic,Credit card,89.22,1198.2,N,No,No,N
+CUST01096,male,27,Texas,55,Month-to-month,Fiber optic,Electronic check,82.49,4812.84,No,Yes,no,No
+CUST00279,F,45,Texas,63,Month-to-month,DSL,Credit card,22.38,1444.84,Yes,yes,Yes,yes
+CUST01189,Male,150,Texas,13,One year,DSL,Credit card,78.18,1014.55,No,No,No,no
+CUST00425,Female,27,california,21,month-to-month,DSL,Bank transfer,106.0,2388.71,YES,Yes,No,Y
+CUST00357,Female,41,california,22,ONE YEAR,Fiber optic,Mailed check,58.56,1214.61,Yes,No,Yes,yes
+CUST00697,Male,47,New York,12,One year,DSL,Bank transfer,63.95,714.34,Yes,Yes,yes,N
+CUST00567,Female,54,California,3,,Fiber optic,Electronic check,42.93,136.56,No,yes,No,Yes
+CUST00848,Male,43,Texas,14,One year,DSL,Credit card,75.05,938.21,No,No,Yes,no
+CUST00539,Female,63,California,51,One year,DSL,Bank transfer,112.6,5063.03,Yes,Yes,Yes,no
+CUST01178,Female,45,New York,71, Two year,Fiber optic,Electronic check,75.91,5757.26,no,Yes,No,0
+CUST00739,Female,37,California,62,Month-to-month,DSL,Credit card,114.65,8117.28,Yes,yes,No,No
+CUST00181, Male,35,California,22,Two year,DSL,Bank transfer,26.88,540.58,No,Yes,No,N
+CUST00689,Female,55,Texas,67,Month-to-month,,Mailed check,23.76,1507.07,No,No,Yes,No
+CUST00460,female ,27,California,20,One year,DSL,Credit card,70.7,1519.0,No,Yes,No,No
+CUST00109,Male,54,california,24,Month-to-month,Fiber optic,electronic check,86.7,2359.8,Yes,No,No,No
+CUST00368,Male,26,California,8,Two year,DSL,Mailed check,90.64,735.55,No,Yes,No,Yes
+CUST00238,Male,27,Florida,38,Month-to-month,DSL,Electronic check,58.26,2127.22,yes,Yes,No,no
+CUST01046,Female,18,California,61,Two year,Fiber optic,Electronic check,46.65,2804.29,N,Yes,No,No
+CUST00643,Female,50,New York,56,month-to-month,Fiber optic,Mailed check,110.96,7127.24,YES,Yes,Yes,Yes
+CUST00885,Female,31,New York,70,Two year,Fiber optic,Credit card,67.26,4878.95,Yes,Yes,No,yes
+CUST00203,Female,61,New York,40,month-to-month,DSL,Mailed check,75.39,3334.7,N,Yes,Y,1
+CUST00921,M,49,california,57,Two year,Fiber optic,Credit card,47.46,2596.29,no,,No,FALSE
+CUST00260,,42,TEXAS,56,Month-to-month,fiber optic,Credit card,25.41,1418.06,Yes,Yes,Yes,no
+CUST00509,F,49,New York,42,One year,DSL,electronic check,50.04,1892.22,Y,No,No,No
+CUST00806, Male,37,california,2,Month-to-month,fiber optic,Bank transfer,52.57,110.02,no,yes,No,Yes
+CUST00337,Male,60,California,14,One year,DSL,electronic check,23.41,338.18,no,No,Yes,yes
+CUST00693,Female,61,TEXAS,55,Month-to-month,FIBER OPTIC,Electronic check,28.7,1614.11,Yes,yes,no,Yes
+CUST00831,Female,55,New York,8, Two year,fiber optic,Electronic check,20.46,160.91,N,Yes,no,
+CUST01068,female ,51,California,2,Two year,No,Electronic check,42.06,80.43,no,Y,Yes,yes
+CUST00182,F,43,Texas,52,ONE YEAR,DSL,Electronic check,68.26,3444.14,No,Yes,Yes,0
+CUST00136,male,45,Texas,32,Month-to-month,DSL,Credit card,110.89,3091.78,No,Y,Yes,FALSE
+CUST01161,Female,53,TEXAS,29,Month-to-month,Fiber optic,Electronic check,52.4,1670.96,No,No,yes,No
+CUST00720,male,45,California,12,Month-to-month,No,electronic check,25.12,285.46,yes,Yes,No,No
+CUST00646,Female,43,Texas,49,Month-to-month,DSL,Bank transfer,60.02,3037.71,yes,No,No,No
+CUST00079,F,39,California,25,ONE YEAR,DSL,Mailed check,54.17,1369.27,no,No,No,Yes
+CUST00524,Male,69,,4,Two year,No,Bank transfer,81.95,340.31,yes,No,No,yes
+CUST00807,F,18,California,63,One year,Fiber optic,Mailed check,29.33,1656.19,Yes,No,Yes,1
+CUST00842,Female,18,New York,2,Month-to-month,fiber optic,Credit card,86.8,156.41,No,Yes,No,0
+CUST00029,Male,41,california,63,Month-to-month,DSL,Electronic check,103.78,6081.08,No,No,Yes,No
+CUST00942,Male,18,New York,58,Two year,DSL,Bank transfer,29.33,1654.34,No,Yes,Yes,No
+CUST00164,M,58,California,51,One year,,Credit card,84.03,3887.24,Yes,Yes,No,No
+CUST00247,female ,32,New York,43,One year,Fiber optic,Bank transfer,98.76,3991.09,No,Yes,Yes,No
+CUST00306,Male,31,California,18,One year,DSL,Bank transfer,87.54,1722.62,No,yes,Y,Y
+CUST00870,Male,18, Florida,71,Month-to-month,DSL,Bank transfer,63.07,5120.04,No,Yes,no,no
+CUST00923,Female,31,Texas,21,One year,Fiber optic,Electronic check,94.69,1698.52,No,No,N,No
+CUST00344,Female,25, Florida,14,month-to-month,Fiber optic,Bank transfer,32.05,505.99,No,No,Yes,no
+CUST00332,Male,33,New York,22,Month-to-month,dsl,Electronic check,37.62,769.41,Yes,Yes,Y,yes
+CUST00284,Male,30,california,46,Month-to-month,DSL,Credit card,40.43,2025.0,no,No,Yes,FALSE
+CUST00968,Female,38,california,19,One year,,Mailed check,22.93,459.94,No,no,No,No
+CUST00096,Female,45,Florida,25,One year,DSL,Credit card,102.6,2767.0,No,No,No,no
+CUST00553,Male,63,TEXAS,72,Month-to-month,DSL,electronic check,28.51,1910.09,Yes,yes,No,No
+CUST01039,F,50,New York,28,Month-to-month,dsl,Bank transfer,107.83,2656.19,No,No,yes,Yes
+CUST00929,Female,64,TEXAS,0,Two year,Fiber optic,electronic check,107.45,0.0,No,Yes,No,N
+CUST00614,Male,47,Texas,70,Month-to-month,DSL,Electronic check,57.66,3583.68,No,No,No,Yes
+CUST00694,Male,33,New York,39,One year,Fiber optic,Mailed check,70.94,3140.81,Y,Yes,No,Yes
+CUST01064,Female,32,Texas,32,Two year,Fiber optic,Bank transfer,69.47,2280.7,No,No,Yes,No
+CUST00855,Female,48,Texas,46,Month-to-month,Fiber optic,electronic check,63.81,3091.66,Yes,Yes,No,FALSE
+CUST00771,male,18,Florida,15,Month-to-month,DSL,Bank transfer,94.99,1338.74,Yes,no,No,Yes
+CUST01061,Male,27,Texas,44,Month-to-month,DSL,Electronic check,100.91,4758.12,Yes,No,Yes,yes
+CUST00064,Female,26,Texas,44,Month-to-month,Fiber optic,Credit card,87.29,3369.39,Yes,Yes,No,FALSE
+CUST01106,F,34,New York,25,One year,DSL,Mailed check,90.2,2421.49,Yes,No,yes,no
+CUST00757,Male,40,California,36,One year,DSL,Mailed check,63.46,2108.92,No,Yes,Yes,TRUE
+CUST00986, Male,35,TEXAS,35,Month-to-month,DSL,Electronic check,80.46,3040.11,No,No,Yes,no
+CUST01086,Male,50,california,60,Month-to-month,Fiber optic,Electronic check,88.39,5852.55,Y,No,Y,No
+CUST01101,Male,29, Florida,69,Two year,Fiber optic,Mailed check,71.37,5022.51,Yes,No,NO,0
+CUST00301,Female,46,California,46,Month-to-month,Fiber optic,Bank transfer,22.18,1092.69,No,N,No,No
+CUST00253,Male,69,TEXAS,37,Month-to-month,DSL,Electronic check,25.5,958.56,Yes,Yes,Yes,No
+CUST00977,Female,18,California,53,Two year,Fiber optic,Electronic check,111.74,6211.41,Yes,Yes,Yes,1
+CUST00949,male,34,Florida,42,Month-to-month,DSL,Electronic check,88.83,3323.07,No,Yes,Yes,Yes
+CUST00311,Male,32, Florida,64,Two year,Fiber optic,Mailed check,35.08,2486.65,Yes,No,No,yes
+CUST00549,Female,18,California,41,One year,Fiber optic,Electronic check,50.71,2102.92,No,Yes,Yes,
+CUST00220,Female,31,California,7,month-to-month,DSL,,91.86,585.97,Yes,No,N,Y
+CUST00473,Female,34,Texas,43,Month-to-month,Fiber optic,Mailed check,24.53,1093.48,No,Yes,No,No
+CUST00386,male,18,Texas,42,Month-to-month,No,Bank transfer,21.8,984.58,Yes,N,Yes,No
+CUST00234,male,47,New York,13,Month-to-month,Fiber optic,Electronic check,57.68,697.02,yes,Yes,Yes,1
+CUST00825,Male,51,New York,66,One year,dsl,Credit card,37.99,2881.5,No,Yes,No,0
+CUST01076,Male,47,California,45,Two year,fiber optic,Bank transfer,116.55,5367.35,Yes,yes,N,yes
+CUST00752,male,18,California,22,Month-to-month,DSL,Credit card,69.5,1628.36,N,Yes,No,0
+CUST00304,female ,50,California,67,Month-to-month,Fiber optic,Mailed check,85.5,6247.91,No,Yes,No,Yes
+CUST01113,Female,41,California,57,Two year,No,Electronic check,105.16,6115.67,No,Yes,Yes,No
+CUST00865,Female,32,TEXAS,44,Month-to-month,fiber optic,Credit card,44.57,2184.83,Yes,No,yes,0
+CUST00953,Female,36,TEXAS,40,Month-to-month,Fiber optic,Electronic check,108.51,4921.11,Yes,no,Yes,Yes
+CUST00933,M,35,Texas,63,One year,Fiber optic,electronic check,69.87,3774.58,No,No,No,No
+CUST01140,Female,37,Texas,28,Month-to-month,Fiber optic,Electronic check,28.14,846.31,yes,Yes,no,N
+CUST00248,F,18,california,43,One year,Fiber optic,Mailed check,83.58,3770.1,No,no,Yes,No
+CUST00773,Female,150,california,34,Two year,Fiber optic,Mailed check,58.55,2288.65,N,No,NO,No
+CUST00607,Male,41,,17,One year,DSL,Credit card,103.76,1594.29,Y,No,no,No
+CUST00070,Male,30,,3, Two year,Fiber optic,CREDIT CARD,115.69,301.62,No,yes,No,0
+CUST00093,male,25,california,2,Month-to-month,DSL,Mailed check,84.05,175.11,No,yes,Yes,
+CUST00667,Female,26,california,66,One year,Fiber optic,electronic check,71.6,4954.11,No,No,Yes,No
+CUST00033,female ,37,California,35,Month-to-month,Fiber optic,Bank transfer,39.65,1250.84,yes,No,Y,no
+CUST00782,female ,44,New York,19,Month-to-month,DSL,Electronic check,76.35,1315.15,,Yes,Yes,No
+CUST00445,Female,63,Texas,63,Month-to-month,Fiber optic,Electronic check,86.28,5505.13,yes,Y,Yes,yes
+CUST00442,female ,35,TEXAS,14,Month-to-month,,Electronic check,54.41,808.91,yes,Yes,Yes,0
+CUST00839,Male,27,New York,48,Month-to-month,Fiber optic,Electronic check,29.97,1452.01,No,Yes,Yes,No
+CUST00711,Male,33,New York,57,Two year,DSL,Electronic check,112.18,7080.49,No,Y,Yes,N
+CUST01143,male,120,California,40,Month-to-month,Fiber optic,Bank transfer,44.84,1903.19,No,No,No,No
+CUST00076,Male,58,Texas,18,Month-to-month,Fiber optic,Electronic check,33.26,510.94,Yes,No,Yes,Yes
+CUST00083,Male,36,California,52,One year,FIBER OPTIC,Credit card,99.0,5047.25,no,Yes,NO,no
+CUST01070,Male,40,California,29,Month-to-month,FIBER OPTIC,Bank transfer,21.71,676.86,N,No,Yes,Yes
+CUST00081,Male,48,Florida,45,Two year,No,electronic check,63.59,2982.56,No,Yes,No,N
+CUST00453,Female,67,New York,30,One year,DSL,Mailed check,57.04,1649.79,No,Yes,Yes,Yes
+CUST00750,Female,35,California,10,Month-to-month,DSL,Credit card,52.43,576.54,Yes,No,yes,0
+CUST00433,Male,18,California,48,Month-to-month,DSL,Electronic check,89.31,3997.0,N,Yes,N,Y
+CUST01067,Male,37,California,28,Month-to-month,DSL,Credit card,43.63,1083.19,No,Y,NO,Yes
+CUST00907,Male,82,,65,One year,FIBER OPTIC,Mailed check,26.08,1571.6,no,yes,no,0
+CUST00402,Male,42,New York,60,Month-to-month,Fiber optic,Electronic check,93.15,4759.95,,No,No,1
+CUST01047,Female,39,California,63,Month-to-month,Fiber optic,Bank transfer,101.97,5900.85,No,no,Yes,FALSE
+CUST00620,Female,27,Florida,72,One year,No,Bank transfer,33.18,2346.29,No,yes,Yes,N
+CUST00662,Male,23,Florida,43,month-to-month,FIBER OPTIC,Electronic check,23.38,991.48,Y,no,N,Yes
+CUST00103, Male,18,Texas,23,Two year,DSL,Bank transfer,45.13,1171.61,Yes,yes,yes,Y
+CUST00550,F,50,Texas,41,Two year,FIBER OPTIC,Bank transfer,33.51,1367.11,No,No,Y,TRUE
+CUST01138,male,36,Texas,49,Month-to-month,Fiber optic,Electronic check,95.92,4457.73,no,No,No,1
+CUST00061,M,39, Florida,16,,Fiber optic,Credit card,37.33,546.99,Yes,N,No,No
+CUST00280,Male,30,,70,Month-to-month,DSL,Bank transfer,117.01,7325.99,no,No,Yes,no
+CUST00676,Male,31,Florida,3,One year,DSL,Bank transfer,85.32,241.19,No,No,Yes,Yes
+CUST00237,Female,41,california,49, Two year,Fiber optic,Electronic check,95.71,5223.4,No,,No,no
+CUST00222,Female,58,Texas,10,Month-to-month,No,Credit card,90.27,831.93,No,No,yes,No
+CUST00144,Male,60,California,72,Month-to-month,Fiber optic,Electronic check,74.34,4893.62,Yes,No,No,
+CUST01120,Male,26,TEXAS,43,Month-to-month,Fiber optic,Electronic check,62.95,2695.21,no,Yes,No,yes
+CUST00371,Female,44, Florida,53,Month-to-month,,Credit card,84.18,4367.7,yes,Yes,No,Y
+CUST00117,F,46,california,19,Month-to-month,DSL,Electronic check,92.01,1774.31,No,yes,No,0
+CUST00818, Male,34,Florida,62,Two year,Fiber optic,Electronic check,70.19,4637.32,no,Yes,No,
+CUST00249,Male,39,Texas,61,month-to-month,Fiber optic,Electronic check,19.31,1333.02,No,Yes,No,Yes
+CUST01157,Female,19,New York,27,Month-to-month,No,,112.59,2602.96,Yes,Yes,No,Yes
+CUST00010,male,38,TEXAS,60,Two year,Fiber optic,Mailed check,27.48,1666.72,yes,No,Yes,no
+CUST00446,Male,60,New York,29,Month-to-month,DSL,Mailed check,115.58,3267.13,N,Yes,No,No
+CUST00890,Male,37,California,37,Month-to-month,DSL,Mailed check,59.47,2285.05,Yes,Yes,Yes,Yes
+CUST00387,M,46,California,14,Month-to-month,DSL,Mailed check,109.66,1614.82,Yes,Yes,N,Yes
+CUST00638,Male,40,New York,37,Month-to-month,Fiber optic,Mailed check,91.53,3107.91,yes,Yes,No,Yes
+CUST00917,Female,25,New York,57,One year,fiber optic,,40.53,2465.61,No,Yes,No,No
+CUST00456,Male,45,California,22,One year,Fiber optic,Mailed check,40.92,968.7,No,Yes,No,0
+CUST01107,Male,57,,56,Month-to-month,DSL,CREDIT CARD,22.62,1158.47,Yes,No,No,no
+CUST00143,Male,5,Texas,65,Two year,fiber optic,Electronic check,101.19,6910.78,Yes,No,no,Yes
+CUST00497,Female,39,Florida,61,Month-to-month,Fiber optic,Bank transfer,105.29,6715.09,Yes,yes,No,
+CUST01110,female ,56,New York,69,Month-to-month,DSL,Mailed check,114.62,7600.46,yes,No,Yes,N
+CUST00535,Male,35,california,39,One year,DSL,Credit card,84.5,3301.39,YES,yes,Y,no
+CUST00176,Female,28,Texas,10,Month-to-month,Fiber optic,Electronic check,100.1,1141.84,No,no,Yes,yes
+CUST01159,Female,120,Florida,22,One year,DSL,Mailed check,36.15,867.19,No,Yes,Yes,No
+CUST00964,Male,44, Florida,1,Month-to-month,Fiber optic,Bank transfer,40.54,39.85,Yes,Yes,No,1
+CUST00596,Male,34,Florida,64,Month-to-month,DSL,Mailed check,22.61,1560.86,No,No,No,Yes
+CUST01196,,32,TEXAS,12,Month-to-month,Fiber optic,Electronic check,59.59,741.79,Yes,No,Yes,yes
+CUST00008,F,66,california,6,Month-to-month,DSL,electronic check,83.83,549.32,Yes,Yes,yes,Y
+CUST00836,female ,68,California,30,Month-to-month,FIBER OPTIC,Bank transfer,99.03,2786.73,No,No,No,TRUE
+CUST00859,F,58,New York,26,One year,DSL,Mailed check,43.34,1101.25,Yes,no,No,Y
+CUST00355,Female,42,New York,60,Month-to-month,Fiber optic,electronic check,80.74,5163.77,yes,no,N,no
+CUST00327,Male,43,Texas,27,One year,Fiber optic,Electronic check,117.87,3601.85,yes,,No,no
+CUST01097,Female,32,Texas,42,month-to-month,Fiber optic,Electronic check,107.31,4248.75,yes,Yes,no,yes
+CUST00876,Male,18,New York,45,Month-to-month,DSL,Mailed check,91.22,3549.56,N,Yes,Yes,No
+CUST00257,Female,62,Texas,71,One year,DSL,Mailed check,48.1,3111.43,Yes,No,Yes,TRUE
+CUST00884,Female,32,Texas,36,One year,DSL,Electronic check,31.56,1182.73,Yes,Yes,No,Yes
+CUST00908,female ,34,california,24,Month-to-month,fiber optic,CREDIT CARD,65.59,1727.49,No,Yes,Yes,No
+CUST00789, Male,39,California,41,Month-to-month,,Mailed check,74.16,3227.76,Yes,No,No,no
+CUST00819,Male,30, Florida,34,Month-to-month,Fiber optic,Bank transfer,35.32,1294.33,No,Yes,Yes,No
+CUST00845,Male,64,New York,25,Month-to-month,Fiber optic,Credit card,73.71,1908.93,Yes,yes,NO,Yes
+CUST00521,Female,58,Texas,53,One year,Fiber optic,Credit card,60.53,3415.03,Yes,Yes,No,no
+CUST00829, Male,64,New York,63,Month-to-month,Fiber optic,Bank transfer,105.11,6887.63,no,Y,Yes,FALSE
+CUST00672,female ,32,Florida,16,Month-to-month,Fiber optic,Electronic check,46.99,843.96,No,No,No,0
+CUST00765,Male,35,New York,36,Month-to-month,Fiber optic,Electronic check,93.22,3647.89,No,Yes,No,Yes
+CUST01166,Female,41,Texas,25, Two year,DSL,Electronic check,37.55,963.78,no,Yes,no,0
+CUST00437,Male,46,california,50,Month-to-month,Fiber optic,Credit card,29.37,1389.07,Yes,Yes,No,No
+CUST00527,,55, Florida,46,Month-to-month,Fiber optic,Electronic check,74.69,3796.79,No,Yes,Yes,No
+CUST00978,Male,39,Texas,35,One year,DSL,electronic check,105.52,3850.2,No,Y,No,
+CUST00227,F,150,California,1,Two year,dsl,Electronic check,87.4,94.0,Yes,no,no,No
+CUST01043,,29,New York,43,Month-to-month,No,Electronic check,48.86,2270.51,No,yes,No,No
+CUST00211,Female,18,California,3,Month-to-month,Fiber optic,Electronic check,88.79,235.99,yes,Yes,No,Yes
+CUST00078,Male,56,Florida,25,Month-to-month,Fiber optic,Mailed check,36.36,958.55,Yes,No,Yes,no
+CUST00147,Male,47,California,1,Month-to-month,Fiber optic,electronic check,55.28,56.46,N,No,no,No
+CUST00604,Male,39,New York,45,One year,DSL,Mailed check,109.62,4341.73,No,Yes,Yes,N
+CUST00721,Male,49,Texas,56,Month-to-month,DSL,Mailed check,93.26,5959.23,No,No,Yes,No
+CUST00926,Male,65,New York,23,Month-to-month,DSL,Bank transfer,34.07,824.24,no,No,yes,no
+CUST00132,Male,31,TEXAS,29,Month-to-month,FIBER OPTIC,electronic check,37.25,1027.78,Yes,No,no,No
+CUST00796,Female,46,California,14,Month-to-month,Fiber optic,Electronic check,39.08,471.13,Yes,Yes,No,Yes
+CUST00406, Male,49,california,34,Month-to-month,DSL,electronic check,49.81,1655.51,Yes,Yes,Yes,No
+CUST00686,Female,41,California,23,Month-to-month,DSL,Bank transfer,91.23,1834.18,Yes,No,Y,Yes
+CUST00503,M,29,California,62,Two year,fiber optic,CREDIT CARD,116.68,6422.97,No,Yes,Yes,Yes
+CUST00893,Male,49,TEXAS,72,One year,No,Mailed check,34.55,2345.01,No,,yes,Yes
+CUST00500,Female,46,Texas,39,Month-to-month,DSL,Electronic check,94.55,3354.87,No,no,No,Yes
+CUST00688,Male,43,Florida,2,One year,DSL,Bank transfer,94.87,185.87,N,Y,Yes,
+CUST00345,Male,28,California,6,One year,Fiber optic,Mailed check,112.82,684.73,No,Y,Yes,Yes
+CUST00384,Male,18,Texas,71,One year,DSL,Bank transfer,109.33,7378.63,Yes,yes,NO,
+CUST00001,Female,58,Texas,22,Two year,No,Electronic check,77.01,1519.11,No,No,NO,No
+CUST00358,Female,36,California,39,One year,fiber optic,Mailed check,77.25,2929.95,Yes,no,No,N
+CUST01135,Female,37,California,25,One year,Fiber optic,Mailed check,61.06,1394.26,Yes,No,Yes,no
+CUST00471,,61,California,43,One year,Fiber optic,Electronic check,31.78,1353.17,No,Yes,N,
+CUST00791,Female,38,TEXAS,52,Month-to-month,Fiber optic,Mailed check,47.59,2390.1,No,no,Yes,1
+CUST00767,male,34,California,9,One year,DSL,Bank transfer,83.88,853.27,Yes,Yes,No,No
+CUST00171,Female,46,New York,52,Month-to-month,Fiber optic,Credit card,74.43,4289.93,No,N,yes,Yes
+CUST00447,male,46,Florida,35,Two year,Fiber optic,,33.34,1064.27,No,No,No,No
+CUST00124,Female,45,California,44,Month-to-month,DSL,Electronic check,75.98,3043.39,yes,Yes,yes,Yes
+CUST01030,Female,28,Texas,32,Month-to-month,Fiber optic,Electronic check,39.8,1314.98,No,Yes,No,N
+CUST00526,M,46,New York,17,Two year,Fiber optic,Bank transfer,111.3,2046.77,Yes,Yes,yes,No
+CUST00089,Male,85,New York,32,One year,Fiber optic,Bank transfer,113.25,3274.63,No,No,yes,No
+CUST01162,Female,18, Florida,25,One year,DSL,Electronic check,28.48,801.66,Yes,Yes,No,
+CUST00180,Male,46,California,68,Month-to-month,DSL,Credit card,84.65,5731.4,No,No,Yes,No
+CUST00673,F,41,california,6,Month-to-month,Fiber optic,Bank transfer,60.16,396.33,YES,yes,N,Yes
+CUST00411,Female,34,California,27,Month-to-month,Fiber optic,Mailed check,72.19,2152.82,No,Yes,No,No
+CUST00250,Female,39,california,5,Month-to-month,Fiber optic,Credit card,44.27,197.07,Yes,No,No,yes
+CUST00068,,35,california,48,Month-to-month,fiber optic,Bank transfer,62.1,3241.99,No,Yes,No,
+CUST00130,Male,23,New York,1,Month-to-month,dsl,Electronic check,84.01,74.46,No,No,yes,
+CUST00299,Male,56,Texas,35,month-to-month,DSL,Mailed check,43.42,1693.59,Y,No,No,
+CUST01187,male,30,California,38,Month-to-month,DSL,Electronic check,49.25,1690.23,Yes,No,Yes,1
+CUST00062,Female,27,Texas,2,Month-to-month,DSL,Electronic check,106.2,206.01,No,No,no,Yes
+CUST01175,Male,56,california,17,Month-to-month,FIBER OPTIC,Mailed check,92.36,1574.81,Yes,No,no,no
+CUST00495,,37,California,57,Two year,DSL,Mailed check,94.39,5622.57,Yes,No,Yes,No
+CUST00880,Male,64,California,25,Month-to-month,DSL,Electronic check,23.07,539.76,Yes,No,No,no
+CUST00935,Male,39,california,25,One year,Fiber optic,Bank transfer,77.87,1982.61,Yes,No,Y,No
+CUST00491,Female,18,New York,48,One year,DSL,Mailed check,68.44,2811.45,Y,Yes,No,No
+CUST00336,Female,43,TEXAS,31,Month-to-month,fiber optic,Mailed check,45.17,1322.0,yes,no,No,No
+CUST00982,Male,46,Florida,68,One year,No,Bank transfer,64.95,4076.83,No,no,Yes,0
+CUST00163,Male,39,Texas,11,Month-to-month,Fiber optic,Bank transfer,108.36,1102.08,no,N,No,Y
+CUST00028,Female,26,California,27,One year,No,Mailed check,50.01,1232.6,Yes,No,no,no
+CUST00512,Female,40,New York,9,Month-to-month,Fiber optic,Mailed check,40.26,320.44,Yes,No,No,TRUE
+CUST00192,Female,38,Florida,20,Month-to-month,Fiber optic,Bank transfer,112.57,2289.07,N,Y,no,Yes
+CUST01074,Female,60,california,61,Month-to-month,dsl,CREDIT CARD,72.63,4563.89,No,No,No,0
+CUST00959,Female,55,New York,6,Month-to-month,Fiber optic,Electronic check,31.59,188.93,no,No,Yes,N
+CUST00168,Female,48,California,18,Month-to-month,DSL,electronic check,77.68,1293.29,Yes,Yes,Yes,no
+CUST00723,Male,45,Texas,44,Month-to-month,DSL,Electronic check,83.85,3705.56,yes,,yes,Yes
+CUST00172,Male,32,Texas,47,Month-to-month,,Electronic check,104.49,4985.17,Yes,Y,no,Yes
+CUST00514,,54,California,56,One year,Fiber optic,Electronic check,108.67,6933.94,No,No,yes,
+CUST00936,Male,20,california,64,Two year,DSL,Bank transfer,24.95,1795.72,Yes,Yes,no,No
+CUST00715,Male,39,New York,12,month-to-month,Fiber optic,Credit card,93.39,1270.36,No,yes,Yes,Y
+CUST00487,Female,38,New York,20,Two year,Fiber optic,Bank transfer,55.23,1188.11,No,No,No,Yes
+CUST00072,M,47,Texas,46,One year,Fiber optic,Credit card,60.73,3209.37, No,No,Yes,Yes
+CUST01000,Male,41,TEXAS,28,Two year,Fiber optic,Bank transfer,114.47,2749.17,No,Yes,Yes,No
+CUST00581,Male,21,california,56,Month-to-month,Fiber optic,Credit card,111.71,6615.69,Y,N,No,Yes
+CUST00233,Male,38, Florida,35,Two year,Fiber optic,CREDIT CARD,39.14,1252.02,Yes,No,No,No
+CUST00213,male,22,New York,12,Two year,Fiber optic,CREDIT CARD,26.08,289.13,No,No,NO,No
+CUST01173,Female,38,New York,49,Two year,DSL,,110.8,5446.27,Yes,Yes,no,No
+CUST00131,Male,58,Florida,13,One year,dsl,Electronic check,22.81,272.04,Yes,yes,No,yes
+CUST00927, Male,53,Florida,64,One year,Fiber optic,Electronic check,44.7,3008.71,No,Yes,Y,No
+CUST00746,Male,56,Texas,70,Two year,Fiber optic,electronic check,90.33,7256.88,No,No,Yes,TRUE
+CUST00958,Female,45,California,2,Two year,Fiber optic,Mailed check,32.13,56.53,Yes,Y,No,Yes
+CUST00184,Female,48,TEXAS,8,One year,DSL,Bank transfer,106.02,817.36,No,Y,Yes,Yes
+CUST00041,Female,41,california,47,One year,Fiber optic,Bank transfer,19.95,1034.09,Yes,No,Yes,0
+CUST00107,Male,18,Florida,0,Two year,fiber optic,Electronic check,20.95,,No,N,yes,
+CUST00864,Female,39,New York,10,Month-to-month,DSL,Bank transfer,18.97,188.74,No,no,No,Yes
+CUST00564, Male,69,New York,70,Two year,DSL,Electronic check,89.6,5673.35,Yes,yes,,No
+CUST00664,Male,35, Florida,69,One year,Fiber optic,electronic check,75.75,5891.45,No,Yes,no,0
+CUST01017,M,38,Texas,3,Month-to-month,fiber optic,Electronic check,87.63,285.23,Yes,No,No,1
+CUST01155,Male,18, Florida,21,One year,DSL,Bank transfer,59.36,1215.78,Yes,no,Yes,No
+CUST00479,Female,42,california,9,Month-to-month,No,Bank transfer,49.02,392.96,Y,Yes,yes,No
+CUST00464,Male,35,New York,29,Month-to-month,dsl,Electronic check,93.27,2477.15,Yes,No,no,
+CUST00024,Female,27,California,31,One year,Fiber optic,Bank transfer,57.68,1668.98,YES,Yes,Yes,0
+CUST01062,Male,30,New York,8,Month-to-month,DSL,Mailed check,88.69,775.88,No,No,No,No
+CUST00895,Female,60,New York,50,One year,Fiber optic,Electronic check,91.3,4673.98,No,No,Yes,1
+CUST00815,Male,53,Texas,65,Month-to-month,No,Mailed check,78.04,5619.44,Yes,No,Yes,1
+CUST01147,Male,54,Florida,6,One year,No,Bank transfer,22.97,120.13,Yes,No,No,No
+CUST00364,female ,34,California,52,One year,DSL,Credit card,41.94,2296.89,Yes,Yes,Yes,FALSE
+CUST01025,Female,58,california,42,month-to-month,DSL,Bank transfer,77.11,3419.43,No,No,no,No
+CUST01055,Male,63,New York,36,Month-to-month,DSL,Electronic check,102.28,3298.38,Yes,No,No,no
+CUST00381,F,27,Texas,32, Two year,DSL,electronic check,115.94,3247.95,no,Yes,yes,TRUE
+CUST00450,Male,24,California,55,Month-to-month,DSL,Mailed check,73.51,4280.2,yes,Yes,Yes,0
+CUST00263,F,60,Texas,58,month-to-month,DSL,Mailed check,53.58,2727.54,No,Yes,yes,
+CUST00774,Female,22,Texas,27,Month-to-month,Fiber optic,Mailed check,29.29,788.37, No,no,Yes,Yes
+CUST00999,Female,24,New York,38,Two year,Fiber optic,Mailed check,22.82,909.06, No,Yes,N,Y
+CUST00441,M,18,New York,56,Month-to-month,Fiber optic,Mailed check,37.44,2218.63,No,Yes,No,1
+CUST00393, Male,48,New York,9,One year,DSL,Mailed check,87.15,866.65,N,No,yes,No
+CUST00755,Male,19,california,1,Month-to-month,FIBER OPTIC,Electronic check,116.23,127.9,Yes,yes,No,Yes
+CUST00175,Female,50,New York,68,Two year,Fiber optic,Mailed check,36.85,2758.41,no,No,N,0
+CUST00018,Female,46,New York,62,Month-to-month,Fiber optic,Bank transfer,94.95,5084.79,No,no,Yes,Yes
+CUST00840,,42,Texas,69,month-to-month,Fiber optic,Mailed check,82.28,5789.61,No,No,No,yes
+CUST00830,Female,36,California,68,Two year,dsl,electronic check,34.83,2633.17,No,Yes,No,no
+CUST00589,Female,37,california,14,Month-to-month,DSL,Credit card,38.86,577.15,Yes,Yes,Yes,
+CUST00060,Male,40,Florida,23,One year,Fiber optic,Credit card,38.37,855.88,Yes,Yes,,1
+CUST00271,F,37,Texas,41,Month-to-month,Fiber optic,Bank transfer,57.75,2404.46,No,Yes,NO,0
+CUST01127,Female,40,New York,72,Month-to-month,Fiber optic,Bank transfer,108.61,8238.64,Y,No,No,No
+CUST00277,male,69,Texas,51,Month-to-month,DSL,Bank transfer,38.12,1970.71,N,Yes,yes,No
+CUST00286,Female,31,New York,20,Month-to-month,DSL,Electronic check,48.88,932.31,Yes,no,no,FALSE
+CUST00366,Male,24,Texas,43,Two year,Fiber optic,Electronic check,112.74,5015.82,No,No,NO,No
+CUST00903,Female,42,New York,35,Two year,No,electronic check,29.53,1179.74,Yes,yes,No,Y
+CUST00835,Male,60,california,60,One year,DSL,Electronic check,102.11,6670.91,No,yes,no,yes
+CUST00875,male,21,Florida,57,Month-to-month,Fiber optic,Mailed check,43.92,2687.19,no,No,No,Yes
+CUST00734,Male,50, Florida,30,Month-to-month,DSL,Credit card,113.64,3459.54,No,Y,Yes,Yes
+CUST01088,Female,62,California,43,Month-to-month,Fiber optic,Mailed check,23.24,1094.78,No,No,no,0
+CUST00543,Female,63,california,69,Month-to-month,,Mailed check,104.83,7683.13,No,Yes,No,no
+CUST00896,F,59,New York,48,Month-to-month,DSL,Mailed check,20.52,1053.62,No,Yes,No,Yes
+CUST00682,male,36,California,8,month-to-month,DSL,Electronic check,20.73,175.78,yes,No,no,yes
+CUST00916,Male,27, Florida,5,Month-to-month,DSL,Bank transfer,64.74,358.67,Yes,Yes,No,
+CUST00452,Male,43,California,43,One year,DSL,Mailed check,91.14,4231.28,No,no,No,no
+CUST00391,male,22,Florida,53,Month-to-month,No,,34.54,1690.49,No,No,No,FALSE
+CUST00669,,43,Texas,50,Month-to-month,No,Credit card,39.02,1907.18,No,No,yes,No
+CUST00928,Male,27,Texas,64,Month-to-month,FIBER OPTIC,CREDIT CARD,34.19,2243.67,yes,Yes,Yes,No
+CUST00983,Female,55,Texas,50,Two year,DSL,Electronic check,89.65,3979.46,Yes,No,No,No
+CUST00373,Male,44,Texas,27,Month-to-month,DSL,Electronic check,78.08,2206.0,No,Yes,No,1
+CUST00409,female ,40,California,44,Month-to-month,No,Credit card,117.77,4482.67,Yes,No,Yes,yes
+CUST00073,male,47,California,8,Month-to-month,DSL,,103.8,837.65,YES,Yes,No,no
+CUST01123,Male,37,California,58,One year,DSL,Bank transfer,97.34,6077.52,Yes,,Yes,0
+CUST00878,Male,39,Texas,8,Month-to-month,Fiber optic,Mailed check,29.85,238.57,No,No,Yes,no
+CUST00496,Female,45,TEXAS,56,Month-to-month,Fiber optic,Electronic check,26.23,1592.81,No,yes,No,TRUE
+CUST00816,Female,32,California,35,Month-to-month,DSL,Electronic check,72.85,2457.97,no,yes,No,No
+CUST00610,Male,18,Texas,43,Two year,Fiber optic,Bank transfer,31.15,1248.76,Yes,No,No,No
+CUST00113,Female,62,Texas,71,Two year,,electronic check,28.82,2206.19,No,No,No,N
+CUST00414,Male,37,Texas,0,One year,DSL,Credit card,56.34,0.0,N,Y,No,No
+CUST00595,Male,24,Texas,19,Two year,DSL,Electronic check,19.84,381.02,No,Yes,No,no
+CUST00598,Male,18,California,0,Two year,No,Electronic check,57.77,,No,Yes,Yes,No
+CUST00088,Female,58,Texas,16,Two year,No,Electronic check,63.32,1013.3,Yes,No,N,No
+CUST01149,Male,65,New York,71,,DSL,CREDIT CARD,71.23,4327.17,No,No,No,No
+CUST00494,female ,34,California,68,Month-to-month,Fiber optic,Credit card,57.79,3752.84,No,no,No,Yes
+CUST00892,Male,34,Texas,13,Month-to-month,Fiber optic,Credit card,101.48,1377.16,Yes,yes,Yes,no
+CUST00899,Male,45,California,4,One year,fiber optic,Bank transfer,37.51,161.18,No,No,No,1
+CUST00897,M,59,TEXAS,42,One year,Fiber optic,Electronic check,47.83,1761.85,Yes,Yes,No,no
+CUST00012,female ,31,California,51,Month-to-month,Fiber optic,Credit card,103.22,5072.39,No,No,,Yes
+CUST00394,F,31,New York,11,Month-to-month,DSL,Mailed check,79.43,761.76,No,Yes,Yes,Yes
+CUST00850,Female,39,New York,0,One year,DSL,Electronic check,84.49,,Yes,No,NO,FALSE
+CUST00551,Female,47,Texas,58,Two year,Fiber optic,Mailed check,114.24,6497.86,No,No,No,Yes
+CUST00042,Male,39,New York,42,Two year,No,Electronic check,52.73,2398.03,Yes,Yes,No,Yes
+CUST00166,Male,85,california,70,Month-to-month,Fiber optic,Mailed check,19.21,1313.19,yes,no,Yes,no
+CUST00413,Male,60,,68,Month-to-month,No,Mailed check,117.78,8733.26,no,No,No,0
+CUST00570,Male,58,Texas,29,One year,Fiber optic,,29.66,975.76,Yes,No,No,0
+CUST00266,male,48,California,56,One year,DSL,Mailed check,24.14,1150.5,No,No,No,No
+CUST00823,Male,45,Texas,24,Two year,fiber optic,Mailed check,67.72,1689.23,no,Yes,Yes,0
+CUST00423,Female,43,TEXAS,37,Month-to-month,DSL,Electronic check,79.76,2993.5,No,yes,Yes,
+CUST00684,Male,46,New York,23,One year,DSL,Electronic check,44.2,1016.74,Yes,No,yes,1
+CUST00540,Female,34,New York,43,One year,No,Mailed check,82.66,4045.72,No,no,No,N
+CUST01124,F,35,California,29,Two year,DSL,Mailed check,64.68,1658.41,Yes,yes,No,No
+CUST00668,Female,-10,California,2,Month-to-month,Fiber optic,Electronic check,41.8,94.48,No,No,No,No
+CUST00683,Male,49,Texas,20,Month-to-month,Fiber optic,Electronic check,62.88,1424.61,No,Yes,No,No
+CUST01057,Female,39,Texas,43,Month-to-month,Fiber optic,Bank transfer,64.36,2408.1,Yes,Yes,Yes,No
+CUST01177,Male,18,California,40,Month-to-month,Fiber optic,,99.67,3806.65,Yes,Yes,No,0
+CUST01146,F,61,California,22,month-to-month,No,Mailed check,21.15,508.04,Y,No,No,N
+CUST00900,Female,53,California,41,Two year,No,Credit card,49.16,1819.43,No,Yes,No,No
+CUST00256,Female,27,Texas,9,One year,No,Mailed check,71.42,684.74,Yes,Yes,No,No
+CUST00333,Male,20,California,39,Month-to-month,No,Mailed check,105.26,3622.87,Yes,No,NO,yes
+CUST00015,Male,36,New York,29,One year,DSL,Mailed check,39.88,1282.02,Y,No,Y,No
+CUST01023,Male,38,California,4,Month-to-month,DSL,Credit card,53.87,214.12,Y,no,Yes,No
+CUST00323,female ,43,California,12,,Fiber optic,,88.93,996.45,No,No,Yes,No
+CUST00601,Female,39,Texas,58,Month-to-month,Fiber optic,CREDIT CARD,62.07,4114.8,No,No,Yes,No
+CUST01056,Male,42,Texas,7,Month-to-month,Fiber optic,Electronic check,54.74,431.8,No,no,No,No
+CUST00805,Male,18,California,3,Two year,dsl,Credit card,88.21,257.48,No,No,No,No
+CUST00221,Male,42,Texas,50,Month-to-month,DSL,Bank transfer,46.57,2479.52,Yes,Yes,Y,
+CUST00178,Male,72,TEXAS,63,Month-to-month,Fiber optic,Electronic check,52.45,3650.01,No,No,No,yes
+CUST00098,Male,40,california,51,Month-to-month,Fiber optic,Electronic check,75.85,4191.7,N,No,no,Yes
+CUST00517,Female,19,New York,57,Month-to-month,Fiber optic,Credit card,104.98,5646.29,No,No,No,Yes
+CUST00022,Male,-10,Texas,55,Month-to-month,DSL,Electronic check,105.86,5355.57,Yes,No,No,No
+CUST00354,Male,54,California,25,Two year,DSL,Electronic check,78.66,2171.81,Yes,No,no,no
+CUST00726,Female,63,Texas,4,Month-to-month,fiber optic,Bank transfer,49.87,202.03,No,no,Yes,No
+CUST00979,M,25,TEXAS,54,One year,Fiber optic,Mailed check,20.77,1154.27,No,No,yes,No
+CUST00458,Female,71,california,48,month-to-month,No,Bank transfer,31.25,1313.23,Yes,No,Yes,no
+CUST00605,male,62,California,31,One year,DSL,Electronic check,0.0,0.0,No,No,No,
+CUST01022,Male,71, Florida,11,Month-to-month,Fiber optic,Electronic check,50.39,481.26,Yes,No,Yes,yes
+CUST00338,Female,30,California,12,month-to-month,No,CREDIT CARD,45.7,550.28,YES,No,Yes,yes
+CUST00428,male,72,california,58,One year,DSL,Mailed check,21.14,1133.15,No,yes,no,no
+CUST01100,Male,26, Florida,70,Month-to-month,fiber optic,Electronic check,75.22,5849.64,Yes,Yes,Yes,Yes
+CUST00216,male,31,TEXAS,18,Month-to-month,Fiber optic,Electronic check,89.03,1563.71,Yes,No,No,N
+CUST00202,F,51,Florida,33,Month-to-month,Fiber optic,Bank transfer,64.79,2139.9,No,Y,Yes,no
+CUST00922,,18,Texas,1,Two year,DSL,Electronic check,43.74,47.55,no,No,No,No
+CUST00939,Female,31,New York,23,Month-to-month,Fiber optic,Credit card,111.42,2811.64,yes,Yes,No,Yes
+CUST00092,Female,53,New York,62,One year,Fiber optic,Mailed check,25.18,1466.76,No,No,No,No
+CUST00813,M,55,California,38,Month-to-month,,Electronic check,76.33,3206.63,No,N,No,No
+CUST00067,Male,34,california,13,,No,Electronic check,117.4,1584.55,No,yes,yes,yes
+CUST00912,Female,61,California,41,Month-to-month,Fiber optic,Mailed check,0.0,0.0,No,Yes,no,N
+CUST00283,Female,49,New York,17,One year,Fiber optic,Credit card,30.06,572.19, No,No,No,No
+CUST00690,Male,27,California,39,Two year,DSL,Bank transfer,56.04,2021.88,N,Yes,No,no
+CUST00084,Male,45,California,2,Month-to-month,fiber optic,Electronic check,90.77,179.02,Yes,Yes,Yes,yes
+CUST00431,Male,59,Texas,70,Two year,No,Bank transfer,73.17,5154.63,Yes,Yes,No,N
+CUST00811,Male,48,New York,26,Two year,Fiber optic,Electronic check,63.12,1736.0,Yes,No,yes,no
+CUST00152,Female,33,New York,54,month-to-month,dsl,Credit card,500.0,23735.14,No,No,No,0
+CUST00074,male,52,Texas,26,Two year,DSL,electronic check,111.99,3323.24,no,Yes,Yes,Y
+CUST01104,Female,30,Texas,12,Month-to-month,Fiber optic,Bank transfer,87.85,1096.32,Yes,N,No,Yes
+CUST00574,Female,18,TEXAS,67,Month-to-month,Fiber optic,Credit card,40.48,2922.22,No,Yes,Y,no
+CUST00443,,40,California,26,ONE YEAR,DSL,Electronic check,52.64,1189.72,Yes,Yes,Yes,No
+CUST00696,Male,45,TEXAS,45,One year,Fiber optic,Mailed check,89.0,4212.0,Yes,No,Yes,no
+CUST00187,Female,25,TEXAS,69,One year,Fiber optic,Bank transfer,84.39,6319.15,no,no,no,no
+CUST00270,M,37,Florida,51,One year,Fiber optic,Mailed check,118.72,6492.9,No,Yes,No,0
+CUST00235,Male,39,California,53,Month-to-month,DSL,Mailed check,68.02,4073.64,No,no,No,N
+CUST00483,Male,50,Texas,9,Month-to-month,No,Bank transfer,65.52,538.67,Yes,yes,no,N
+CUST01160,Male,18,Florida,17,Month-to-month,Fiber optic,Credit card,100.81,1774.5,,yes,No,FALSE
+CUST00555,Female,30,California,26,Two year,DSL,Mailed check,100.71,2878.26,Yes,yes,No,No
+CUST00116,Male,31,California,15,Month-to-month,DSL,Credit card,62.59,931.89,No,Yes,Yes,FALSE
+CUST00631,Male,25,California,27,Month-to-month,FIBER OPTIC,Bank transfer,94.24,2592.45,No,no,yes,No
+CUST01079,female ,74,Florida,50,One year,Fiber optic,electronic check,22.97,1053.49,No,yes,NO,No
+CUST00743,Male,40,California,49,Month-to-month,Fiber optic,Electronic check,89.1,4432.49,Yes,No,No,yes
+CUST00508, Male,26,California,61,Month-to-month,Fiber optic,Electronic check,49.99,3293.55,yes,no,no,0
+CUST00627,Female,65,Texas,3,One year,DSL,Electronic check,85.99,225.01,No,Yes,no,Yes
+CUST00800, Male,36,Texas,8,Month-to-month,,Electronic check,91.27,812.13,yes,No,No,Yes
+CUST01019,M,57,california,28,Month-to-month,DSL,Mailed check,50.99,1436.91,No,yes,No,No
+CUST00969,Female,60,California,35,One year,fiber optic,Electronic check,118.31,4196.09,no,No,Yes,yes
+CUST00125,M,24,California,62,Two year,No,Mailed check,43.45,2541.73,Yes,No,N,No
+CUST00783,Male,18,Florida,23,Month-to-month,No,Bank transfer,22.03,536.71,Y,Yes,Yes,No
+CUST00115,M,48,TEXAS,5,Month-to-month,Fiber optic,Electronic check,31.54,140.12,No,No,Yes,No
+CUST00469,F,55,Florida,51,month-to-month,DSL,Bank transfer,98.61,4884.75,Yes,No,no,1
+CUST00733,Female,29,New York,71,Month-to-month,Fiber optic,Credit card,43.23,2796.37,no,Yes,yes,N
+CUST01014,female ,48,TEXAS,1,Month-to-month,Fiber optic,Electronic check,106.21,106.33,Yes,No,yes,1
+CUST00056,Male,68,New York,20,Month-to-month,Fiber optic,Electronic check,113.54,2312.61,No,Yes,no,0
+CUST00597,Male,53,Texas,48,Month-to-month,DSL,Credit card,78.5,3412.09,Yes,Yes,No,N
+CUST00779,Female,46,TEXAS,68,Month-to-month,DSL,Bank transfer,102.94,7091.12,YES,Yes,No,Yes
+CUST00990,Male,19,California,52,Month-to-month,Fiber optic,Bank transfer,33.61,1657.83,No,yes,No,Y
+CUST00650,Male,35,New York,65,Month-to-month,Fiber optic,Credit card,47.18,2800.84,No,No,Yes,No
+CUST01105,Male,52,,2,Two year,DSL,Credit card,112.21,192.82,yes,N,no,Yes
+CUST00938,F,39,California,34,One year,Fiber optic,Bank transfer,65.4,1932.23,Yes,yes,Yes,1
+CUST00104,Male,72,Texas,60,Two year,Fiber optic,Electronic check,89.21,5960.74,No,Yes,No,No
+CUST00629,Female,41,California,63,One year,Fiber optic,Bank transfer,30.49,1663.63,Yes,No,No,No
+CUST00367,Male,36,california,11,One year,Fiber optic,Bank transfer,58.46,604.66,Yes,yes,No,0
+CUST00267,Female,49,Texas,47,Month-to-month,DSL,Electronic check,48.93,2486.76, No,Yes,Yes,N
+CUST00649,Male,37,Texas,17,Two year,DSL,,39.97,619.92,no,No,NO,No
+CUST00812,Male,55,,20,One year,fiber optic,Bank transfer,87.89,1836.81,No,No,Yes,FALSE
+CUST00046,Male,57,California,39,month-to-month,Fiber optic,Bank transfer,82.09,2978.44,no,Yes,Yes,No
+CUST00347,Female,38,california,27,month-to-month,DSL,Bank transfer,53.69,1554.85,No,Yes,No,No
+CUST00766,Female,49,Texas,63,One year,DSL,Electronic check,94.78,5818.77,No,No,No,N
+CUST00194,Male,63,Florida,37,One year,Fiber optic,Electronic check,73.94,2452.46,No,Yes,no,yes
+CUST00101,Male,18,California,45,ONE YEAR,DSL,Bank transfer,107.03,4562.27,N,,No,no
+CUST00005,Male,40,Texas,31,Month-to-month,No,electronic check,42.07,1146.38,Y,Yes,Yes,1
+CUST00613,male,53,Texas,33,Two year,Fiber optic,Credit card,103.03,3601.36,Y,No,No,Yes
+CUST01080,Female,22,Texas,12,Month-to-month,DSL,Mailed check,42.49,449.95,No,No,Yes,No
+CUST00052, Male,38,California,67,One year,DSL,Credit card,62.01,4024.59,Yes,Yes,yes,No
+CUST00262,Female,44,New York,32,Month-to-month,Fiber optic,electronic check,51.07,1803.92,Yes,Yes,Yes,yes
+CUST01095,Female,47,TEXAS,43,month-to-month,DSL,Bank transfer,99.3,3860.52,yes,no,NO,No
+CUST00440,Female,25,California,48,Two year,DSL,Mailed check,57.01,2515.86,Yes,no,no,
+CUST00991,Female,45,california,49,Month-to-month,Fiber optic,electronic check,76.15,3336.82,yes,N,Y,No
+CUST00775,Male,52,Texas,1,Month-to-month,No,electronic check,102.49,91.69,no,No,No,Yes
+CUST00881,male,55,Texas,9,One year,Fiber optic,Electronic check,99.71,977.85,Yes,No,No,No
+CUST00685,Female,41,Texas,3,ONE YEAR,DSL,Electronic check,87.15,260.96,yes,Yes,Yes,No
+CUST00303,male,18,New York,39,Month-to-month,DSL,Mailed check,74.27,3270.89,No,yes,Y,No
+CUST00339,Female,45,TEXAS,4,Month-to-month,No,CREDIT CARD,24.32,93.93,No,no,No,No
+CUST00883,M,44,New York,35,Month-to-month,Fiber optic,Electronic check,50.56,1691.2,N,Y,No,No
+CUST00312,female ,52,Florida,11,Month-to-month,Fiber optic,Electronic check,39.57,399.03,Yes,No,NO,Yes
+CUST00148,Male,61,New York,19,One year,Fiber optic,Electronic check,85.51,1611.37,No,No,no,No
+CUST00123,Male,18,Texas,25,Month-to-month,Fiber optic,,51.8,1384.33,No,No,NO,no
+CUST01129,Male,42,Texas,24,Month-to-month,DSL,Electronic check,117.01,2949.04,Yes,No,no,No
+CUST00568,F,41,New York,24,Month-to-month,DSL,Credit card,45.22,1012.44,No,No,yes,No
+CUST00448,Female,41,Texas,47,month-to-month,DSL,Bank transfer,46.2,1905.18,no,No,Y,no
+CUST00658,Male,47,New York,44,,Fiber optic,Bank transfer,52.01,2145.13,Yes,No,No,no
+CUST00050,female ,41,California,61,Two year,,Credit card,50.44,2905.78,no,Yes,No,No
+CUST00719,Male,44,California,11,One year,Fiber optic,Electronic check,92.3,958.8,No,No,No,Y
+CUST00792, Male,48,California,58,Month-to-month,Fiber optic,electronic check,109.82,6682.35,No,yes,No,Yes
+CUST00826,Male,82,Texas,62,Two year,Fiber optic,Bank transfer,50.98,3394.75,No,No,Yes,yes
+CUST00351,Male,18,Texas,64,One year,Fiber optic,Electronic check,108.45,7282.78,No,Yes,Yes,No
+CUST01153,M,28, Florida,25,month-to-month,No,Electronic check,94.47,2413.76,Yes,No,No,0
+CUST00141,Female,29,California,47,One year,DSL,Mailed check,99.78,4085.9,Yes,Yes,No,No
+CUST00466,Male,46,California,17,Month-to-month,No,Bank transfer,118.53,1730.3,yes,No,No,No
+CUST00647,male,47,California,41,One year,DSL,Bank transfer,78.91,3468.34,No,No,yes,No
+CUST00397,male,35,Texas,35,Two year,No,Electronic check,82.79,2632.02,No,No,No,No
+CUST00915,Female,69,California,53,Month-to-month,DSL,Credit card,116.69,5518.04,yes,Yes,No,No
+CUST00932,Female,27,Florida,54,One year,No,Credit card,41.35,2054.6,No,No,Yes,no
+CUST00319,Female,52,New York,4,One year,No,,113.38,411.77,No,yes,Y,Yes
+CUST00019,Male,38,California,41,Month-to-month,DSL,CREDIT CARD,88.43,3329.67,No,No,Yes,yes
+CUST00678, Male,59,,16,Month-to-month,Fiber optic,electronic check,89.95,1469.08,No,No,Yes,no
+CUST00035,M,41,TEXAS,12,Month-to-month,Fiber optic,Electronic check,83.48,900.6,No,Yes,yes,Yes
+CUST00817,Female,43,California,64,One year,Fiber optic,Mailed check,68.24,4127.15,Yes,yes,yes,no
+CUST00501,Male,45,california,37,month-to-month,Fiber optic,Electronic check,45.5,1441.27,yes,No,No,Yes
+CUST00820,Male,42,Florida,30,month-to-month,DSL,Mailed check,65.21,2174.85,No,No,No,No
+CUST01073,female ,18,TEXAS,1,month-to-month,No,Electronic check,92.59,105.6,Yes,yes,Yes,yes
+CUST00405,Male,55,Florida,42,Month-to-month,Fiber optic,Mailed check,43.59,1614.7,no,Yes,yes,No
+CUST00810,Female,29,Texas,57,One year,Fiber optic,Mailed check,113.98,6182.21,Yes,no,yes,N
+CUST00858,Male,38,Florida,65,Month-to-month,fiber optic,Bank transfer,37.1,2474.85,No,No,No,No
+CUST00533,Male,28,Texas,41,Month-to-month,Fiber optic,electronic check,60.45,2425.2,No,,Y,N
+CUST00751,F,32,New York,69,Two year,DSL,Mailed check,55.17,3804.87,No,N,No,No
+CUST01176,male,30,New York,26,,FIBER OPTIC,Credit card,96.35,2810.16,No,Yes,No,No
+CUST00988,female ,41,Texas,35,Month-to-month,Fiber optic,Bank transfer,73.08,2339.84,No,N,no,
+CUST00038,Female,32,California,21,Two year,DSL,Electronic check,92.22,2017.96,yes,No,No,Yes
+CUST00174,Male,39,TEXAS,58,Month-to-month,DSL,Mailed check,99.39,6628.07,Yes,yes,No,TRUE
+CUST00244, Male,47,New York,37,Month-to-month,DSL,Electronic check,81.41,3151.31,yes,No,Yes,No
+CUST00803,,28,TEXAS,50,month-to-month,Fiber optic,Electronic check,111.93,5524.18,No,No,yes,No
+CUST01087,male,45,California,40,One year,Fiber optic,Electronic check,96.2,4395.82,No,No,No,No
+CUST00981,Female,77,California,64,Two year,Fiber optic,electronic check,68.46,4758.41,No,yes,No,No
+CUST00777,Male,23,California,40,One year,No,electronic check,87.91,3353.02,No,No,no,No
+CUST01186,Male,39,Texas,25,Two year,Fiber optic,Electronic check,83.4,2182.27,yes,Yes,No,1
+CUST00485,F,47,New York,59,Month-to-month,Fiber optic,Bank transfer,105.09,6686.22,No,Yes,No,no
+CUST00153,,42,California,11,month-to-month,DSL,Electronic check,32.08,345.58,Yes,No,Yes,N
+CUST00632,Male,18,california,65,Two year,No,Mailed check,41.01,2508.78,Yes,no,No,No
+CUST00656,Female,37,California,33,Month-to-month,DSL,Bank transfer,102.07,3318.29,Yes,Yes,Yes,No
+CUST00846,F,51,New York,71,,Fiber optic,Mailed check,38.87,2545.19,Yes,No,No,Yes
+CUST00286,Female,48,Florida,34,Month-to-month,DSL,Electronic check,43.0,1636.97,no,Yes,NO,No
+CUST00619,Female,43,TEXAS,8,Two year,DSL,Credit card,72.59,575.39,No,Yes,Yes,No
+CUST01128,M,18,Texas,19,Two year,DSL,Bank transfer,37.96,718.35,Yes,no,Yes,yes
+CUST00679,Female,30,California,51,month-to-month,DSL,Mailed check,33.68,1608.75,Yes,No,No,N
+CUST01020,Male,-10,California,6,One year,DSL,Bank transfer,76.4,452.63,Yes,Yes,yes,1
+CUST00889,Male,28,New York,47,One year,DSL,Electronic check,62.36,3228.41,No,Yes,NO,0
+CUST00477,Male,70,New York,38,Two year,Fiber optic,Mailed check,57.74,2004.63,Y,Y,No,No
+CUST01145,F,35,California,15,Month-to-month,DSL,Electronic check,63.23,1043.3,Yes,no,NO,No
+CUST00727,Female,24,TEXAS,10,One year,DSL,Credit card,106.08,1033.19,Yes,No,no,No
+CUST00785,Female,44,Texas,57,Month-to-month,DSL,Bank transfer,45.65,2394.06,Yes,Yes,No,0
+CUST00017,Female,41,New York,59,Month-to-month,DSL,Mailed check,112.83,7065.52,Yes,no,yes,Yes
+CUST00126,F,46,New York,66,Two year,FIBER OPTIC,Bank transfer,83.98,6366.02,N,Yes,yes,No
+CUST00321,Female,38,TEXAS,29,One year,Fiber optic,electronic check,113.0,3635.2,yes,No,No,N
+CUST00254,Female,45,New York,23,One year,DSL,electronic check,89.32,1914.06,No,no,N,Yes
+CUST00961, Male,19,California,25,Month-to-month,DSL,Bank transfer,110.6,3139.54,No,No,yes,no
+CUST01180,Female,21,Texas,61,Month-to-month,Fiber optic,Electronic check,94.97,6340.69,No,no,NO,Yes
+CUST00189,Male,30,Texas,25,Two year,,Electronic check,55.48,1354.96,No,No,No,
+CUST00114,F,53,Texas,28,Month-to-month,No,Credit card,62.2,1880.49,No,yes,Yes,No
+CUST01174,Male,44,TEXAS,37,One year,No,Electronic check,47.68,1559.88,yes,No,yes,Yes
+CUST00955,Female,36,Florida,70,One year,Fiber optic,Credit card,113.25,8503.68,No,Yes,Yes,0
+CUST00600,Male,57,Florida,46,Two year,,Credit card,49.09,2410.28,no,no,No,No
+CUST00179,Male,56,Texas,2,One year,Fiber optic,Mailed check,71.83,129.28,yes,Yes,No,No
+CUST00300,Female,58,California,32,One year,DSL,Mailed check,69.42,1904.74,No,N,yes,
+CUST00492,Female,50,New York,8,Month-to-month,Fiber optic,Electronic check,99.71,807.11,No,Yes,No,Yes
+CUST00346,Female,31,California,39, Two year,DSL,Bank transfer,108.76,4520.86,N,Y,Yes,
+CUST01038,Male,59,Texas,41,One year,fiber optic,Electronic check,61.41,2597.44,N,Yes,Yes,No
+CUST01069,male,18,Texas,56,Two year,DSL,Electronic check,113.75,6685.97,No,No,yes,Y
+CUST00737,Male,69,California,69,One year,DSL,Credit card,93.09,6805.23,yes,Yes,Yes,
+CUST01198,Female,33,New York,54,One year,Fiber optic,Mailed check,29.93,1677.9,Yes,Yes,NO,FALSE
+CUST00974,male,42,New York,55,One year,DSL,Electronic check,94.04,4585.92,no,Y,N,No
+CUST00513,M,40,New York,5,Two year,Fiber optic,Bank transfer,109.36,599.18,Yes,Yes,No,Yes
+CUST00370,Male,42,Texas,68,Month-to-month,No,Credit card,47.45,3020.34,No,Yes,no,N
+CUST00045,Female,34,California,44,One year,No,Bank transfer,62.49,2597.33,No,No,NO,N
+CUST00472,Male,23,california,6, Two year,No,Credit card,81.06,432.03,,N,no,no
+CUST00156,male,26,Texas,15,One year,fiber optic,Electronic check,97.89,1569.26,No,yes,yes,Yes
+CUST01049,F,43,New York,57,Month-to-month,DSL,Electronic check,30.05,1688.96,No,yes,Yes,No
+CUST00170,Male,51,Texas,26,Month-to-month,DSL,Mailed check,97.38,2488.68,No,Yes,No,FALSE
+CUST00016,Male,49,Florida,20,,DSL,electronic check,38.82,794.42,Yes,Yes,No,no
+CUST00507,Female,53,Texas,12,Month-to-month,Fiber optic,Mailed check,108.19,1375.97,Y,No,No,No
+CUST00048,Female,47,New York,56,Month-to-month,Fiber optic,Mailed check,46.16,2928.43,No,No,Yes,No
+CUST00190,F,46,Texas,20,Month-to-month,DSL,Mailed check,59.32,1349.17,No,yes,No,0
+CUST00542,Male,46,california,54,Two year,Fiber optic,Electronic check,63.81,3785.53,No,No,No,Yes
+CUST00511,Male,42,Florida,35,Two year,,CREDIT CARD,50.59,1902.35, No,Yes,No,No
+CUST00997,M,55,California,43,One year,DSL,Mailed check,59.29,2358.76,N,Yes,Yes,No
+CUST00956,male,40,Texas,58,Month-to-month,Fiber optic,Mailed check,20.31,1055.89, No,no,Yes,Yes
+CUST00821,male,47,,27,Month-to-month,No,Electronic check,79.39,1845.09,No,Yes,No,FALSE
+CUST01003,Male,57,TEXAS,59,Two year,DSL,Electronic check,108.21,5882.45,No,No,No,no
+CUST00476,Female,51,Florida,65,One year,No,Bank transfer,88.56,5867.6,Yes,N,No,No
+CUST01130,Female,20,Texas,18,One year,DSL,Electronic check,99.56,1547.69,yes,no,No,No
+CUST00282,Male,23,New York,1,Month-to-month,Fiber optic,Bank transfer,76.8,72.38,Yes,Yes,No,No
+CUST01033,Female,54,California,61,One year,dsl,Bank transfer,43.34,2749.29,Yes,No,Yes,No
+CUST00790,Female,27, Florida,46,Month-to-month,Fiber optic,Credit card,40.06,2014.92,yes,Yes,Yes,no
+CUST00984,Female,71,New York,21,Two year,No,Mailed check,27.9,597.25,No,No,N,no
+CUST00224,Male,41,New York,56,One year,DSL,Electronic check,95.89,5646.42,Y,yes,Yes,No
+CUST00026,Male,60,Texas,61,Two year,Fiber optic,,75.87,4440.4,No,Yes,no,Yes
+CUST00281,Female,75,California,32, Two year,Fiber optic,CREDIT CARD,105.29,2992.71,No,no,no,Yes
+CUST01150,male,30,California,4,Month-to-month,fiber optic,Bank transfer,113.2,510.01,No,No,No,
+CUST00434,M,35,california,30,One year,Fiber optic,Electronic check,45.37,1188.57,No,Yes,No,yes
+CUST01168,Male,45,New York,64,Two year,dsl,,73.96,4585.43,no,Yes,Y,No
+CUST00362,female ,50,Texas,67,,FIBER OPTIC,Credit card,100.19,6552.52,No,No,Y,0
+CUST00228,Female,18,California,7,One year,Fiber optic,,500.0,3051.17,Yes,No,No,Yes
+CUST00037,Male,50,california,59, Two year,DSL,Mailed check,57.28,3875.83,yes,Yes,no,No
+CUST00663,Male,41,California,14,One year,Fiber optic,Credit card,51.13,756.06,No,Yes,no,No
+CUST00742,Female,61,New York,56,One year,fiber optic,Mailed check,-50.5,-2538.17,yes,No,N,no
+CUST01181,Male,52,Texas,28,Month-to-month,Fiber optic,Electronic check,29.59,762.97,Yes,yes,Yes,No
+CUST00372,Male,38, Florida,53,Month-to-month,DSL,Credit card,84.38,4579.45,No,No,yes,Yes
+CUST00465,female ,35,California,44,Month-to-month,fiber optic,Bank transfer,94.6,4082.28,Yes,Yes,No,N
+CUST00873,Male,36,Texas,19,Month-to-month,Fiber optic,Electronic check,115.77,2243.14,No,N,No,No
+CUST01085,Male,54,New York,1,Two year,Fiber optic,Bank transfer,72.21,78.87,No,yes,no,1
+CUST01182,F,52,California,57,One year,Fiber optic,Bank transfer,30.61,1559.71,yes,No,No,No
+CUST00681,Male,43,Texas,68,Two year,DSL,Mailed check,22.8,1638.16,No,No,No,No
+CUST00032,Male,21,Texas,1,Month-to-month,DSL,Bank transfer,91.45,94.44,No,Y,Y,N
+CUST00633,Female,-10,California,21,Two year,dsl,Electronic check,21.75,524.43,No,Yes,Yes,Y
+CUST01041, Male,30, Florida,56,ONE YEAR,Fiber optic,Electronic check,72.22,4472.36,Yes,no,yes,No
+CUST00193,Male,47,California,10,Month-to-month,No,Electronic check,91.21,971.86,no,No,No,Yes
+CUST01108,Male,32,california,23,Month-to-month,DSL,Electronic check,56.66,1271.84,yes,No,No,
+CUST01115,Female,22,California,65,Month-to-month,Fiber optic,Electronic check,51.31,2992.37,Yes,No,Yes,No
+CUST00970,Male,26,california,31,One year,,Bank transfer,79.05,2801.84,No,Yes,No,0
+CUST00499,M,55,California,60,Month-to-month,Fiber optic,Electronic check,76.96,5240.44,N,Yes,No,Yes
+CUST00906,Female,32,Florida,45,Month-to-month,DSL,Credit card,93.77,4637.99,No,Yes,Yes,no
+CUST00996,Female,32,California,20,One year,DSL,electronic check,45.54,809.7,Yes,Yes,no,no
+CUST01184,female ,27,Florida,21,One year,DSL,Bank transfer,117.11,2534.86,yes,No,no,no
+CUST01090,female ,42,California,30,Month-to-month,,Bank transfer,31.15,974.51,No,No,Yes,Yes
+CUST00793,male,35,Texas,37,One year,DSL,Bank transfer,69.13,2803.93,No,No,No,No
+CUST00573,Male,52, Florida,72,Month-to-month,No,Electronic check,111.38,7991.88,No,No,No,No
+CUST00159,Female,33,,5,Month-to-month,No,Bank transfer,66.72,293.41,Yes,Yes,Yes,1
+CUST00674,M,32,New York,12,Month-to-month,dsl,Credit card,32.87,343.72,Yes,Yes,Yes,no
+CUST00946,Female,41,Texas,10,Month-to-month,No,Electronic check,102.02,1017.94,Yes,yes,no,No
+CUST01132,Male,20,Florida,71,One year,Fiber optic,Electronic check,86.53,6326.69,Yes,Yes,no,No
+CUST00161,Female,44,Florida,21,Month-to-month,FIBER OPTIC,electronic check,106.09,2120.49,Yes,No,yes,Yes
+CUST00814,Male,45,california,45,Month-to-month,dsl,electronic check,36.59,1820.59,Yes,Yes,Y,Yes
+CUST00698,,62,TEXAS,26,One year,Fiber optic,Mailed check,71.07,1592.95,No,No,Yes,yes
+CUST01021,Female,44,Texas,13,One year,No,Credit card,78.24,1158.71,No,Yes,NO,Yes
+CUST00868,Female,46, Florida,63,Two year,dsl,Electronic check,57.18,4134.79,No,No,yes,
+CUST00886,Male,47,California,22,Two year,Fiber optic,Electronic check,71.37,1653.87,No,Yes,No,N
+CUST00904,Female,30,New York,26,Two year,DSL,Electronic check,112.59,2954.43,Yes,Yes,No,No
+CUST01199,male,27,California,51,One year,DSL,electronic check,63.19,2805.31,Yes,No,yes,no
+CUST00151,Male,37,New York,2,Two year,No,electronic check,104.2,189.04,Y,Yes,no,Yes
+CUST00998,Male,40,california,46,Month-to-month,No,Mailed check,89.0,3694.22,No,No,N,Yes
+CUST00564,M,58,California,25,Month-to-month,Fiber optic,Electronic check,101.5,2812.89,No,yes,No,TRUE
+CUST00505,male,39,california,49,Month-to-month,fiber optic,Electronic check,112.46,5616.29,No,Yes,Y,No
+CUST00110,Male,44,Texas,9,Month-to-month,DSL,Bank transfer,93.55,737.29,No,No,No,Y
+CUST00225,female ,24,California,11,One year,Fiber optic,Mailed check,33.2,343.29,Yes,yes,No,N
+CUST01005, Male,29,California,72,One year,DSL,Mailed check,32.62,2119.12,No,yes,No,0
+CUST00844,male,44,california,60,One year,DSL,Bank transfer,51.92,3461.77,No,Yes,No,No
+CUST00102,Female,28,New York,15,Month-to-month,Fiber optic,Electronic check,42.37,543.93,N,yes,Yes,0
+CUST00418,male,39, Florida,45,Month-to-month,Fiber optic,Credit card,104.13,5236.1,No,No,No,No
+CUST00416,male,53,california,16,Month-to-month,,Credit card,30.35,499.51,no,yes,Yes,Yes
+CUST00957,Male,45,Texas,38,One year,DSL,electronic check,53.79,1991.83,Yes,no,No,0
+CUST00618,Female,47,California,58,month-to-month,Fiber optic,Credit card,24.84,1472.73,No,No,Yes,
+CUST00580,Male,49,California,41,Month-to-month,DSL,Bank transfer,97.28,3655.36,N,yes,No,No
+CUST01063,,55,,31,One year,DSL,electronic check,88.03,2775.08,No,No,No,No
+CUST00910,Male,52, Florida,26,Month-to-month,DSL,Electronic check,33.03,937.74,No,yes,No,0
+CUST00666,Male,68,California,31,Two year,DSL,Bank transfer,84.27,2710.38,No,N,No,No
+CUST00118,Female,37,New York,70,One year,No,Credit card,87.15,5670.52,No,Yes,No,No
+CUST00053,F,35,Florida,16,Month-to-month,Fiber optic,Electronic check,105.76,1902.6,Yes,yes,Yes,No
+CUST00150,Male,47,California,45,ONE YEAR,DSL,electronic check,112.17,5513.29,N,No,Yes,No
+CUST00401,M,32,Texas,8,Month-to-month,DSL,Credit card,38.81,325.02,no,No,No,no
+CUST01190,Male,40,Florida,21,Month-to-month,fiber optic,Electronic check,39.66,896.44,Yes,no,,Y
+CUST00206,Female,26,Texas,16,Month-to-month,Fiber optic,Credit card,108.33,1514.94,No,Yes,Yes,No
+CUST01136,F,36,Florida,26,Month-to-month,fiber optic,Mailed check,103.31,2393.74,Yes,Yes,Yes,No
+CUST00652,Female,51,Florida,67,Month-to-month,Fiber optic,Bank transfer,69.93,4203.27,Y,No,Yes,FALSE
+CUST01099,M,56,New York,29,Two year,Fiber optic,electronic check,100.67,2486.86,No,No,yes,Yes
+CUST00231,Female,52,Texas,9,Two year,DSL,Electronic check,46.49,480.68,Yes,No,No,yes
+CUST00009,Female,55,Texas,0,One year,No,Electronic check,109.2,0.0,No,No,No,No
+CUST00158,male,48,TEXAS,43,Two year,No,Credit card,41.89,2062.9,No,Yes,No,yes
+CUST00036,Male,18,Texas,14,Month-to-month,No,Electronic check,46.09,621.93,Yes,Yes,No,Yes
+CUST00449,Female,32,Texas,48,One year,DSL,Bank transfer,47.31,2546.68,No,No,NO,No
+CUST00645,Female,78,Texas,4,One year,DSL,Bank transfer,38.98,161.58,No,Yes,no,1
+CUST00252,Male,50,California,50,month-to-month,DSL,Bank transfer,80.69,3558.88,Yes,No,yes,0
+CUST00302,Female,33,New York,12,ONE YEAR,fiber optic,Bank transfer,83.51,951.67,Yes,No,No,0
+CUST00887,Male,29,California,40,ONE YEAR,Fiber optic,Bank transfer,89.0,3795.95,Yes,No,no,Yes
+CUST01051,male,42,Texas,57,One year,Fiber optic,Electronic check,72.92,3651.54,N,,Yes,Yes
+CUST00871,Male,41,New York,62,Month-to-month,Fiber optic,Bank transfer,81.69,5305.2,yes,No,No,Yes
+CUST00566,male,56,New York,39,Month-to-month,No,Electronic check,108.15,4015.82,no,No,No,No
+CUST01001,,47,Texas,53,Month-to-month,DSL,Electronic check,23.57,1067.4,No,N,Yes,No
+CUST01134,male,60,Texas,39,One year,DSL,Electronic check,90.87,3332.8,Yes,Yes,No,no
+CUST00617,Female,33,New York,37,Month-to-month,FIBER OPTIC,,40.09,1649.19,No,No,yes,Yes
+CUST00343,Female,50,Texas,49,Month-to-month,Fiber optic,Mailed check,90.54,3773.24,No,yes,Yes,1
+CUST01197,Female,32,Texas,9,Two year,Fiber optic,Bank transfer,91.43,912.79,No,Yes,No,0
+CUST00261,Male,49,New York,38,Month-to-month,Fiber optic,Credit card,92.19,3929.21,No,No,No,No
+CUST00149, Male,37,california,58,One year,DSL,Credit card,63.57,4001.88,YES,N,Yes,yes
+CUST00468,Male,30,Texas,35,One year,Fiber optic,Electronic check,111.37,4107.44,No,Yes,yes,1
+CUST00634,Male,45,California,30,Month-to-month,DSL,Credit card,116.72,3100.79,yes,yes,Yes,N
+CUST01191,Female,31,California,50,Two year,Fiber optic,Electronic check,45.11,2431.35,Yes,No,No,No
+CUST01131,Female,38, Florida,4,Month-to-month,No,Credit card,89.79,347.87,Yes,No,N,
+CUST00546,Female,35,california,18,One year,FIBER OPTIC,Mailed check,76.56,1570.52,No,no,Yes,no
+CUST00918,Female,38,california,69,Month-to-month,DSL,Mailed check,68.24,5386.51,Yes,N,yes,
+CUST00484,female ,29,California,9,month-to-month,DSL,Credit card,67.51,576.03,No,No,No,Yes
+CUST01083,Male,25,Texas,54,Month-to-month,FIBER OPTIC,Electronic check,26.23,1528.01,No,,No,Y
+CUST00145,Female,60,,22,Two year,Fiber optic,Credit card,48.42,947.74,No,Yes,No,FALSE
+CUST00400,Female,46,Texas,66,Two year,No,Electronic check,109.66,6681.68,no,Yes,no,Y
+CUST00944,Female,70,California,15,Month-to-month,,Bank transfer,50.9,865.72,Yes,N,Y,No
+CUST01126,Female,48,California,56,Month-to-month,Fiber optic,Mailed check,68.08,3564.57,no,Yes,No,Yes
+CUST00653,Female,35,california,70,Two year,Fiber optic,Electronic check,100.22,6328.9,,No,Yes,Yes
+CUST00459,Female,61,Florida,36,One year,DSL,Bank transfer,39.97,1403.96,YES,No,No,0
+CUST00185,M,25,California,14,One year,No,Bank transfer,106.44,1707.12,No,Yes,No,no
+CUST00602,Female,36,California,61,One year,Fiber optic,Bank transfer,71.64,4402.34,No,no,No,no
+CUST00142,Male,49,New York,39,One year,DSL,Mailed check,117.17,4210.46,No,Yes,Yes,no
+CUST00744, Male,18,Florida,24,Two year,DSL,Electronic check,27.61,673.03,Yes,No,yes,no
+CUST00971,male,28,Florida,27,One year,DSL,Mailed check,116.65,3016.02,Yes,No,No,no
+CUST00196,F,47,New York,34,Month-to-month,DSL,,55.96,2170.18,yes,Yes,No,0
+CUST00874,Male,32,california,7,One year,DSL,Credit card,91.76,678.12,Yes,yes,no,1
+CUST00278,male,29,TEXAS,30,Month-to-month,DSL,Electronic check,98.14,3239.73,Yes,yes,No,no
+CUST00292,Female,18,Texas,52,Month-to-month,Fiber optic,,105.93,5353.65,Yes,Yes,N,No
+CUST01091,F,30,California,46,One year,No,Electronic check,61.98,2445.87,Yes,No,yes,No
+CUST00398,Male,36,New York,24,month-to-month,DSL,Electronic check,75.85,1927.63,No,No,Yes,yes
+CUST00121,Male,39,Texas,70,One year,DSL,Bank transfer,111.54,7132.73,No,no,No,yes
+CUST00201,Male,52,New York,37,Month-to-month,Fiber optic,Credit card,87.5,3319.26,Yes,Yes,no,Yes
+CUST00828,Female,31,New York,1,month-to-month,DSL,Bank transfer,78.22,68.8,No,No,No,No
+CUST00245,Female,64,Texas,37,Two year,Fiber optic,Credit card,100.57,3171.66,,Yes,Yes,no
+CUST01141,Female,47,California,38,One year,DSL,Credit card,24.5,840.42,Yes,Yes,Yes,Yes
+CUST00382,male,49,California,70,One year,Fiber optic,Credit card,54.77,3851.67,No,No,NO,FALSE
+CUST00847,Male,76,California,4,One year,No,Electronic check,20.98,94.31,Y,No,No,N
+CUST00218,M,65,Texas,11,One year,Fiber optic,Bank transfer,50.11,554.98,No,yes,no,No
+CUST00635,Male,43,New York,22,One year,No,Credit card,116.79,2773.22,,Yes,No,no
+CUST00002,female ,61,california,70,ONE YEAR,Fiber optic,Electronic check,28.88,2298.89,Yes,yes,yes,yes
+CUST00111, Male,49,California,15,,Fiber optic,Credit card,30.46,454.98,No,No,Y,No
+CUST00691,Male,57,California,53,Two year,DSL,Bank transfer,57.49,3469.2,N,no,Yes,
+CUST00941,Female,24,Texas,15,Two year,DSL,Mailed check,43.66,616.04,Y,yes,No,No
+CUST01081,Female,32,California,43,Month-to-month,,Bank transfer,56.29,2671.26,No,No,No,Yes
+CUST00438,,45,California,42,Month-to-month,No,Mailed check,64.27,2731.86,yes,Yes,No,yes
+CUST00657,Male,44,New York,69,One year,DSL,Credit card,44.29,3142.02,yes,N,no,No
+CUST01098,Male,42,california,33,Month-to-month,DSL,Credit card,86.66,2722.36,No,Yes,Yes,no
+CUST00316,Male,73,New York,7,Month-to-month,No,Mailed check,115.38,879.22,No,Yes,No,Y
+CUST00642,male,25,California,6,Month-to-month,FIBER OPTIC,Mailed check,101.01,671.54,No,Yes,Yes,yes
+CUST00702,Female,39,Texas,1,Month-to-month,DSL,electronic check,89.8,101.01,Yes,Yes,Yes,Yes
+CUST00962,male,49,Texas,32,One year,DSL,Bank transfer,96.57,2657.03,yes,Yes,No,Yes
+CUST00621,male,28,New York,71,Month-to-month,fiber optic,Electronic check,37.64,2419.38,Yes,Yes,yes,
+CUST00626,Female,37,New York,29,Month-to-month,DSL,Mailed check,74.77,2103.74,Yes,no,No,no
+CUST01172, Male,65,Texas,45,Month-to-month,dsl,Mailed check,111.25,4507.83,No,Yes,No,no
+CUST01109,F,39,California,52,Two year,Fiber optic,Bank transfer,99.75,4939.42,No,No,no,No
+CUST00788,F,41,,6,Two year,DSL,Credit card,21.66,139.5,Yes,Yes,Yes,1
+CUST00639,F,32,Texas,54,Month-to-month,DSL,Bank transfer,101.89,5539.32,No,No,No,1
+CUST01002,female ,45,California,16,Two year,DSL,Credit card,106.9,1859.2,No,No,,N
+CUST00552,Male,18,New York,19,Month-to-month,DSL,Electronic check,26.57,539.82,Yes,Yes,No,No
+CUST00675,Male,51,TEXAS,65,One year,Fiber optic,Electronic check,69.58,4069.42,No,Yes,no,
+CUST00571, Male,32,Texas,67,Two year,DSL,Bank transfer,88.53,5194.13,No,no,No,no
+CUST00520,M,76,California,19,One year,No,Credit card,69.91,1287.11,Y,Yes,No,no
+CUST01048,Female,33,New York,44,Month-to-month,dsl,Mailed check,28.48,1192.57,no,Yes,Y,No
+CUST00536,female ,45,Texas,66,Month-to-month,Fiber optic,electronic check,97.32,6117.18,No,yes,no,Y
+CUST00741, Male,39,New York,19,Two year,DSL,Electronic check,37.89,663.61,Yes,Y,NO,No
+CUST01192,male,41,california,22,Month-to-month,Fiber optic,Mailed check,62.11,1345.47,N,No,No,FALSE
+CUST00480,Female,63,Florida,41,Month-to-month,DSL,Electronic check,47.39,1920.66,No,no,No,No
+CUST00094,Female,50,california,48,One year,,Electronic check,109.93,5449.14,No,Yes,No,Yes
+CUST01010,Female,82,TEXAS,58,One year,Fiber optic,Electronic check,59.94,3451.75,No,no,no,No
+CUST00559,Male,29,New York,61,One year,DSL,Mailed check,56.45,3406.99,YES,Yes,Yes,No
+CUST00735,male,46,New York,70,Month-to-month,dsl,Credit card,54.59,4311.58,Yes,No,Yes,no
+CUST00856,Female,23,california,12,One year,DSL,Mailed check,73.82,794.95,No,No,No,
+CUST00882,F,33,New York,28,One year,No,Credit card,74.01,2138.84,No,no,Y,No
+CUST01028,Male,59,California,8,,FIBER OPTIC,Electronic check,107.08,747.03,No,No,No,Y
+CUST00205,Male,43,California,16,One year,Fiber optic,Credit card,95.57,1740.5,yes,no,Yes,No
+CUST00390,Female,50,,4,One year,DSL,Mailed check,24.76,84.91,N,Yes,No,Y
+CUST00787,Male,45,TEXAS,25,Two year,Fiber optic,Bank transfer,54.35,1172.73,No,Yes,Yes,
+CUST00861,Female,49,New York,57,Month-to-month,DSL,Bank transfer,46.42,2920.04,No,yes,No,1
+CUST00395,Female,41, Florida,3,Month-to-month,,Electronic check,54.81,160.21,No,Yes,Yes,FALSE
+CUST00759,male,42,New York,51,One year,Fiber optic,Credit card,84.16,4142.26,Yes,No,no,No
+CUST01102,Female,58,California,54,Two year,Fiber optic,Mailed check,91.21,4778.74,No,Yes,Yes,No
+CUST01018,Male,39, Florida,11,Two year,Fiber optic,Bank transfer,89.29,1090.32,No,,Yes,0
+CUST00636,Male,52,New York,47,Month-to-month,No,Mailed check,56.69,2749.41,No,yes,No,No
+CUST00606,Female,25,New York,26,ONE YEAR,DSL,Credit card,61.28,1463.02,No,Yes,yes,No
+CUST00950,Male,40,Texas,68,Month-to-month,DSL,Credit card,86.19,5779.41,No,No,no,N
+CUST00718,M,45,California,52,One year,DSL,Credit card,115.23,5910.76, No,N,No,No
+CUST00677,Female,34,California,9,One year,No,Electronic check,97.39,941.97,Yes,No,No,Yes
+CUST00097,Male,58,TEXAS,71,Month-to-month,,Bank transfer,50.2,3606.31,No,no,Yes,N
+CUST00797,Female,55,TEXAS,25,Month-to-month,Fiber optic,Bank transfer,26.37,659.7,yes,no,No,yes
+CUST00404,Female,18,California,17,One year,No,Credit card,76.78,1411.0,yes,Yes,Yes,TRUE
+CUST00498,Male,21,New York,51,Month-to-month,DSL,Electronic check,61.88,3396.58,no,No,no,No
+CUST01060,Male,31,New York,30,Two year,DSL,Electronic check,95.84,2527.21,yes,No,No,no
+CUST01045,male,18,,2,month-to-month,Fiber optic,Bank transfer,98.75,180.62,Yes,Yes,NO,TRUE
+CUST00919,Male,63,California,52,One year,No,Electronic check,94.4,5596.92,No,No,Yes,
+CUST00772,Female,43,New York,53,Two year,Fiber optic,Electronic check,28.89,1571.1,Yes,No,Yes,no
+CUST00199,Female,57,Texas,9,Two year,DSL,Credit card,46.86,453.11,Yes,No,N,Yes
+CUST00133,female ,18,New York,48,One year,No,Credit card,108.12,5327.25,Yes,Yes,no,Y
+CUST01040,Female,48,Texas,3,,Fiber optic,Bank transfer,61.82,196.69,YES,No,No,No
+CUST00040,Male,37,California,24, Two year,DSL,Mailed check,71.77,1817.88,N,Yes,No,Y
+CUST01007,Female,31,New York,1,Month-to-month,Fiber optic,Electronic check,81.69,87.61,Yes,No,no,Yes
+CUST00229,male,76,TEXAS,10,One year,DSL,Mailed check,39.3,388.08,No,Y,Yes,No
+CUST00376,M,32,California,57,Month-to-month,No,electronic check,58.91,3069.46,YES,yes,Yes,No
+CUST00287,Male,60,California,50,ONE YEAR,Fiber optic,Mailed check,68.6,3131.67,No,No,Yes,
+CUST00415,Female,55,California,38,Two year,DSL,Mailed check,44.14,1922.83,yes,No,No,no
+CUST00389,Female,30,California,14,Month-to-month,DSL,Credit card,116.01,1477.54,Yes,no,no,0
+CUST00586,Male,36,Texas,0,Two year,Fiber optic,Electronic check,118.12,0.0,no,Yes,No,Yes
+CUST01075,Female,29,California,2,One year,FIBER OPTIC,Bank transfer,54.39,103.94,No,No,Y,No
+CUST00641,Female,28,New York,0,Month-to-month,Fiber optic,Bank transfer,32.47,0.0,no,No,Yes,No
+CUST00516,Female,42,Texas,70,Two year,DSL,Electronic check,33.21,1993.9,No,no,Yes,no
+CUST00063,Male,44,Texas,41,ONE YEAR,fiber optic,Credit card,43.74,1798.47,No,yes,Yes,No
+CUST00014,Male,56,New York,70,Month-to-month,No,Credit card,67.49,4892.28,No,No,No,No
+CUST01053,Female,35,California,67,Month-to-month,Fiber optic,Electronic check,41.43,2913.3,No,yes,Yes,No
+CUST00488,Male,33,California,7,One year,FIBER OPTIC,Electronic check,118.23,910.02,Yes,Yes,Yes,Yes
+CUST00377,Male,49,california,41,Month-to-month,Fiber optic,Credit card,82.65,3361.39,No,yes,No,no
+CUST00186,Female,52,Texas,2,Two year,Fiber optic,Mailed check,88.89,165.26,No,No,No,N
+CUST00756,male,60,Florida,71,Two year,DSL,Electronic check,77.29,6278.21,no,No,Yes,N
+CUST00215,Male,44,TEXAS,68,Two year,No,Mailed check,69.95,4926.96,Yes,Yes,Yes,0
+CUST00784,Female,18,California,60,Month-to-month,DSL,Bank transfer,39.05,2393.47,Yes,Yes,yes,No
+CUST01065,Female,5,Florida,66,Month-to-month,FIBER OPTIC,Credit card,72.68,4885.51,No,Yes,Yes,No
+CUST00869,Male,43,New York,20,One year,Fiber optic,Credit card,81.85,1536.44,,Yes,Yes,No
+CUST00335,male,53,TEXAS,72,Month-to-month,Fiber optic,Electronic check,57.01,4386.15,no,Yes,Yes,Yes
+CUST00712,male,34,california,11,Month-to-month,No,Bank transfer,40.21,419.73,Yes,No,no,
+CUST00294,Female,41,California,51,month-to-month,DSL,Bank transfer,59.3,2710.88,Y,Yes,Yes,
+CUST01006,Male,51,california,48,Month-to-month,DSL,Bank transfer,75.35,3131.14,No,yes,yes,Yes
+CUST00451,Female,42,Texas,67,Two year,Fiber optic,Electronic check,74.53,5527.91,yes,Yes,Yes,No
+CUST00808,Female,53,Texas,28,Two year,DSL,Bank transfer,76.21,2114.35,,Yes,No,no
+CUST00268,Male,22,California,41,Two year,DSL,Mailed check,71.56,3054.65,,N,No,No
+CUST00985,Male,58,california,52,Month-to-month,dsl,Credit card,83.31,3771.47,No,No,Yes,No
+CUST00200,Male,50,California,11,Month-to-month,DSL,Electronic check,79.8,761.18,Yes,No,No,Yes
+CUST00160,Female,42,Texas,63,Two year,FIBER OPTIC,Bank transfer,59.48,3637.77,yes,Yes,NO,no
+CUST00722,Male,42,California,39,One year,Fiber optic,Credit card,21.35,808.71, No,No,Y,no
+CUST00399, Male,5,Texas,35,One year,Fiber optic,Electronic check,30.22,1055.92,yes,Yes,no,0
+CUST00695,Male,18,Texas,67,Month-to-month,DSL,Mailed check,90.84,6998.44,Yes,yes,yes,no
+CUST01117,Male,29,California,17,Month-to-month,dsl,Mailed check,72.74,1301.12,Yes,No,yes,No
+CUST00561,Female,37,California,16,Two year,DSL,electronic check,104.86,1616.85, No,No,No,
+CUST01011,Male,37,TEXAS,57,One year,Fiber optic,Bank transfer,102.61,6336.59,No,No,no,N
+CUST01015,Female,64,california,40,Month-to-month,DSL,Credit card,78.7,3568.65,No,yes,Yes,0
+CUST01093,,18,California,68,Month-to-month,Fiber optic,Electronic check,68.67,5131.09,no,Yes,Yes,no
+CUST00204,Male,38,california,9,One year,DSL,Credit card,88.22,712.38,Yes,no,Yes,Yes
+CUST00034,female ,30,Texas,70,Two year,DSL,Mailed check,62.16,4650.29,No,No,No,No
+CUST00768,Male,53,Texas,41,Month-to-month,Fiber optic,Bank transfer,58.36,2398.31,No,No,yes,Yes
+CUST00504,female ,60,California,18,Two year,No,Bank transfer,68.28,1291.52,yes,yes,No,no
+CUST01185,male,36,Florida,5,,DSL,Electronic check,43.16,232.65,Yes,No,N,Y
+CUST00090,male,40,California,48,Two year,Fiber optic,Electronic check,101.17,5457.3,no,Yes,No,no
+CUST00888,F,18,California,27,Two year,DSL,Mailed check,115.75,3274.49,Y,N,no,Yes
+CUST00560,Female,75,New York,18,One year,DSL,Bank transfer,47.11,876.05,Yes,No,yes,Yes
+CUST00769,Male,62,California,47,Month-to-month,No,Mailed check,79.67,4104.58,No,Yes,No,Y
+CUST00240,female ,27, Florida,6,Month-to-month,No,Mailed check,39.62,261.52,N,no,No,No
+CUST00066,Male,38,Texas,9,,DSL,Credit card,26.81,265.13,No,No,Yes,N
+CUST00314,Female,43,California,33,Month-to-month,No,Mailed check,31.34,1021.9,Yes,No,No,Yes
+CUST00594,Male,20,Texas,26,Month-to-month,Fiber optic,,103.84,2391.7,Yes,No,No,No
+CUST00385,Male,32,california,50,Two year,,Electronic check,34.88,1910.6,no,Yes,No,no
+CUST00165,Male,18,California,50,Two year,DSL,Electronic check,92.56,4556.66,No,No,N,no
+CUST00833,Male,73,New York,33,Month-to-month,Fiber optic,Electronic check,62.07,2296.21,No,no,No,Yes
+CUST00020,Female,52,California,50,One year,DSL,Credit card,42.8,2004.79,yes,No,Yes,no
+CUST00640,Female,55,TEXAS,67,One year,No,Credit card,31.43,2074.55,Yes,No,No,no
+CUST01142,Female,56,TEXAS,59,One year,Fiber optic,Bank transfer,98.89,5624.83,No,yes,No,Y
+CUST00824,Female,51,New York,42,Two year,fiber optic,Electronic check,26.69,1262.54,Yes,Yes,,No
+CUST00558,Male,44,New York,62,Two year,DSL,Electronic check,33.08,1893.36,N,Y,No,No
+CUST01183,female ,18,Texas,69,One year,Fiber optic,Bank transfer,79.39,4980.41,No,No,No,No
+CUST00680,Female,20,TEXAS,5,Month-to-month,DSL,Credit card,64.47,286.02,No,Yes,No,0
+CUST00947,Male,24,California,64,Month-to-month,DSL,Bank transfer,85.6,4816.38,No,No,No,No
+CUST00188,Male,66,TEXAS,16,Month-to-month,DSL,,92.17,1454.81,No,No,Yes,no
+CUST00965,Male,24,Texas,70,ONE YEAR,No,Mailed check,33.0,2622.23,No,Yes,NO,No
+CUST00692,Female,49,TEXAS,34,Month-to-month,No,CREDIT CARD,34.93,1307.32,No,No,No,No
+CUST00506,Female,55,Texas,32,month-to-month,FIBER OPTIC,Bank transfer,19.06,558.31,Yes,Yes,No,Yes
+CUST01071,Female,43,California,8,One year,DSL,Mailed check,32.87,292.0,yes,N,No,No
+CUST00470,Female,51,Texas,18,Two year,Fiber optic,Electronic check,80.38,1301.45,Yes,Yes,NO,N
+CUST00849,Male,40,Texas,15,One year,No,Bank transfer,65.38,969.27,YES,Yes,Y,
+CUST00740,Female,18,California,31,Month-to-month,Fiber optic,Credit card,53.33,1707.23,No,yes,No,No
+CUST00251,F,27,TEXAS,16,Two year,Fiber optic,Bank transfer,68.24,965.87,No,Yes,No,N
+CUST00021,Male,52,New York,63,Month-to-month,fiber optic,Mailed check,30.78,1694.69,Yes,No,Y,Yes
+CUST00455,Male,43,New York,52,month-to-month,DSL,Credit card,104.06,5170.47,No,No,Yes,N
+CUST01171,Male,43,California,5,Month-to-month,DSL,Mailed check,0.0,0.0,No,no,No,no
+CUST00275,male,54,TEXAS,22,Month-to-month,Fiber optic,Credit card,106.41,2610.08,yes,No,Yes,No
+CUST00945,Female,35,Texas,14,Two year,Fiber optic,Bank transfer,102.83,1355.13,no,Yes,yes,No
+CUST00383,M,42,california,55,Month-to-month,Fiber optic,Bank transfer,59.4,3397.3,Yes,Yes,no,No
+CUST00798,male,34,Texas,47,Month-to-month,DSL,Mailed check,21.04,1015.63,No,Yes,NO,No
+CUST00341,Female,47,California,40,Month-to-month,DSL,Mailed check,84.99,3149.45,Y,No,No,Yes
+CUST00762,M,30,california,4,Month-to-month,DSL,Electronic check,21.64,96.41,,Yes,no,No
+CUST00129,Female,54,california,25,Month-to-month,Fiber optic,Electronic check,86.76,2180.44,No,No,No,1
+CUST00862,Male,82,New York,61,One year,Fiber optic,Credit card,105.23,5839.81,yes,No,No,Y
+CUST01112,M,53, Florida,59,One year,Fiber optic,Mailed check,102.9,6575.31,YES,yes,N,Yes
+CUST00086,Female,34,California,41,Month-to-month,Fiber optic,Electronic check,75.32,3436.32,Yes,No,Yes,no
+CUST00328,Female,65,california,1,Month-to-month,Fiber optic,Electronic check,61.1,54.05,No,Yes,Yes,No
+CUST00462,Male,52,New York,36,One year,Fiber optic,Electronic check,44.34,1645.68,N,No,No,no
+CUST00120,F,41,New York,25,month-to-month,DSL,Credit card,86.19,2105.06,No,No,no,No
+CUST01034,F,49,California,56,month-to-month,DSL,Electronic check,28.49,1618.58,No,yes,No,Yes
+CUST01084,Male,53,Texas,8,Month-to-month,No,Bank transfer,41.41,338.64,No,No,Yes,Y
+CUST01118,male,44,TEXAS,51,One year,Fiber optic,Credit card,85.12,4044.32,No,No,No,No
+CUST00853,male,38,California,2,One year,Fiber optic,electronic check,33.54,73.21,No,Yes,NO,yes
+CUST01114,Male,65,Texas,41, Two year,DSL,Credit card,103.36,3668.98,No,No,No,No
