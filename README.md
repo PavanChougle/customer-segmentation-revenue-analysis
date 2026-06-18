@@ -104,8 +104,7 @@ data/
 sql/
    Data.sql
    clean.sql
-   A
-   nalysis.sql
+   Analysis.sql
 
 powerbi/
    dashboard.pbix
